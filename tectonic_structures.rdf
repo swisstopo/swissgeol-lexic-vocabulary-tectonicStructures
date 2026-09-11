@@ -1143,8 +1143,10 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/GiudicarieFault"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/PustertalGailtalFault"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/KarawankenFault"/>
-	<skos:exactMatch rdf:resource="https://resource.geosphere.at/thes/fault/206"/>
+	<skos:narrowMatch rdf:resource="https://resource.geosphere.at/thes/fault/206"/>
+	<skos:narrowMatch rdf:resource="https://voc.europe-geology.eu/hike/faults/493"/>
 	<skos:exactMatch rdf:resource="https://voc.europe-geology.eu/hike/faults/494"/>
+	<skos:exactMatch rdf:resource="https://resource.geosphere.at/thes/fault/205"/>
 	<adms:status xml:lang="en">active</adms:status>
 </rdf:Description>
 
@@ -1325,9 +1327,8 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 	<skos:prefLabel xml:lang="it">Faglia del Gallo</skos:prefLabel>
 	<skos:altLabel xml:lang="en">Gallo Line</skos:altLabel>
 	<skos:altLabel xml:lang="de">Gallo-Linie</skos:altLabel>
+	<skos:editorialNote xml:lang="en">From its geographical description, the Gallo Fault In HIKE (4615) and Geosphere Thesaurus (173) seems to correspond to the Trupchun-Braulio Fault of lexic !</skos:editorialNote>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
-	<skos:exactMatch rdf:resource="https://resource.geosphere.at/thes/fault/173"/>
-	<skos:exactMatch rdf:resource="https://voc.europe-geology.eu/hike/faults/4615"/>
 	<adms:status xml:lang="en">active</adms:status>
 	<dct:source>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</dct:source>
 	<dct:bibliographicCitation>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</dct:bibliographicCitation>
@@ -1652,7 +1653,7 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/PeriadriaticFault"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/CanaveseFault"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TonaleFault"/>
-	<skos:exactMatch rdf:resource="https://voc.europe-geology.eu/hike/faults/4620"/>
+	<skos:broadMatch rdf:resource="https://voc.europe-geology.eu/hike/faults/4620"/>
 	<adms:status xml:lang="en">active</adms:status>
 </rdf:Description>
 
@@ -1660,7 +1661,7 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdfs:isDefinedBy>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</rdfs:isDefinedBy>
 	<rdfs:comment>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</rdfs:comment>
-	<skos:definition xml:lang="en">The Giudicarie Fault is a Miocene brittle fault, which crops out in the Giudicarie and Rendena valleys, north of Lago di Garda. This major fault is a NNE- SSW oriented segment of the Periadriatic Fault System. It separates two E-W segments of this Periadriatic Fault System: the Tonale Fault in the west and the Pustertal-Gailtal Fault in the east, which are offset by about 75 km. The southern part of the Giudicarie Fault is entirely located in the South Alpine, while the northern part separates Austroalpine units to the west and South Alpine units to the east. Only the southern part occurs in the area of the map (SE border), with a small portion of the northern part occurring at the eastern edge of the map area.</skos:definition>
+	<skos:definition xml:lang="en">The Giudicarie Fault represents a NNE- SSW oriented segment of the Periadriatic Fault System.. It separates two E-W segments of this Periadriatic Fault System: the Tonale Fault in the west and the Pustertal-Gailtal Fault in the east, which are offset by about 75 km. The southern part of the Giudicarie Fault is entirely located in the South Alpine, while the northern part separates Austroalpine units to the west and South Alpine units to the east. Only the southern part occurs in the area of the map (SE border), with a small portion of the northern part occurring at the eastern edge of the map area.</skos:definition>
 	<skos:scopeNote xml:lang="en">Southalpine</skos:scopeNote>
 	<skos:example xml:lang="en">ligne judicarienne (Henny 1918), Judicarien-Linie, Giudicarie Fault = Giudicarie-Störung = Faille des Giudicarie (Gouffon et al. 2024)</skos:example>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
@@ -1672,7 +1673,9 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 	<skos:altLabel xml:lang="fr">Ligne judicarienne</skos:altLabel>
 	<skos:altLabel xml:lang="it">Linea delle Giudicarie</skos:altLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/PeriadriaticFault"/>
-	<skos:exactMatch rdf:resource="https://voc.europe-geology.eu/hike/faults/4623"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/GiudicarieSouthFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/GiudicarieNorthFault"/>
+	<skos:relatedMatch rdf:resource="https://voc.europe-geology.eu/hike/faults/4623"/>
 	<adms:status xml:lang="en">active</adms:status>
 </rdf:Description>
 
@@ -1701,7 +1704,7 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 	<skos:prefLabel xml:lang="de">Karawanken-Störung</skos:prefLabel>
 	<skos:altLabel xml:lang="de">Karawanken-Linie</skos:altLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/PeriadriaticFault"/>
-	<skos:exactMatch rdf:resource="https://resource.geosphere.at/thes/fault/163"/>
+	<skos:closeMatch rdf:resource="https://resource.geosphere.at/thes/fault/163"/>
 	<adms:status xml:lang="en">active</adms:status>
 </rdf:Description>
 
@@ -1723,7 +1726,7 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 	<skos:altLabel xml:lang="en">Canavese Line</skos:altLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/InsubricFault"/>
 	<skos:related rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MontaltoDoraFault"/>
-	<skos:exactMatch rdf:resource="https://voc.europe-geology.eu/hike/faults/4621"/>
+	<skos:closeMatch rdf:resource="https://voc.europe-geology.eu/hike/faults/4621"/>
 	<adms:status xml:lang="en">active</adms:status>
 </rdf:Description>
 
@@ -1740,7 +1743,7 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 	<skos:prefLabel xml:lang="fr">Faille du Tonale</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Faglia del Tonale</skos:prefLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/InsubricFault"/>
-	<skos:exactMatch rdf:resource="https://voc.europe-geology.eu/hike/faults/4622"/>
+	<skos:closeMatch rdf:resource="https://voc.europe-geology.eu/hike/faults/4622"/>
 	<adms:status xml:lang="en">active</adms:status>
 </rdf:Description>
 
@@ -1864,7 +1867,7 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 	<skos:altLabel xml:lang="en">Bonndorf Graben</skos:altLabel>
 	<skos:altLabel xml:lang="de">Bonndorf-Graben</skos:altLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/FaultNormal"/>
-	<skos:exactMatch rdf:resource="https://voc.europe-geology.eu/hike/faults/9266"/>
+	<skos:closeMatch rdf:resource="https://voc.europe-geology.eu/hike/faults/9266"/>
 	<adms:status xml:lang="en">active</adms:status>
 </rdf:Description>
 
@@ -2729,8 +2732,8 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 	<skos:altLabel xml:lang="en">Engadine Line</skos:altLabel>
 	<skos:notation>EL</skos:notation>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/FaultComposite"/>
-	<skos:exactMatch rdf:resource="https://resource.geosphere.at/thes/fault/171"/>
-	<skos:exactMatch rdf:resource="https://voc.europe-geology.eu/hike/faults/478"/>
+	<skos:broadMatch rdf:resource="https://resource.geosphere.at/thes/fault/171"/>
+	<skos:broadMatch rdf:resource="https://voc.europe-geology.eu/hike/faults/478"/>
 	<adms:status xml:lang="en">active</adms:status>
 	<dct:source>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</dct:source>
 	<dct:bibliographicCitation>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</dct:bibliographicCitation>
@@ -2874,6 +2877,8 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 	<skos:prefLabel xml:lang="de">Trupchun-Braulio-Überschiebung</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Chevauchement de Trupchun-Braulio</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Sovrascorrimento di Trupchun-Braulio</skos:prefLabel>
+	<skos:editorialNote xml:lang="en">
+From its geographical description, the Gallo Fault In HIKE (4615) and Geosphere Thesaurus (173) seems to correspond to the Trupchun-Braulio Fault of lexic !</skos:editorialNote>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Thrust"/>
 	<adms:status xml:lang="en">active</adms:status>
 </rdf:Description>
@@ -3941,8 +3946,9 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 	<skos:altLabel xml:lang="it">Sovrascorrimento dello Schlinig</skos:altLabel>
 	<skos:altLabel xml:lang="fr">Chevauchement du Schlinigtal</skos:altLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ThrustForward"/>
-	<skos:exactMatch rdf:resource="https://resource.geosphere.at/thes/fault/631"/>
-	<skos:exactMatch rdf:resource="https://voc.europe-geology.eu/hike/faults/480"/>
+	<skos:broadMatch rdf:resource="https://voc.europe-geology.eu/hike/faults/480"/>
+	<skos:broadMatch rdf:resource="https://resource.geosphere.at/thes/fault/175"/>
+	<skos:closeMatch rdf:resource="https://resource.geosphere.at/thes/fault/631"/>
 	<adms:status xml:lang="en">active</adms:status>
 </rdf:Description>
 
@@ -5408,6 +5414,28 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 	<skos:prefLabel xml:lang="it">Retrosovrascorrimento Pedealpino</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Rétrochevauchement Pédéalpin</skos:prefLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ThrustBackward"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/GiudicarieSouthFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Giudicarie (South) Fault is a Miocene brittle fault, which crops out in the Giudicarie and Rendena valleys, north of Lago di Garda. This major fault is a NNE- SSW oriented segment of the Periadriatic Fault System. The Giudicarie (South) Fault is entirely located in the South Alpine.</skos:definition>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Giudicarie South Fault</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Giudicarie-Südstörung</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Faille méridionale des Giudicarie</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Faglia meridionale delle Giudicarie</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/GiudicarieFault"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/GiudicarieNorthFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Giudicarie North Fault</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Giudicarie-Nordstörung</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Faille septentrionale des Giudicarie</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Faglia settentrionale delle Giudicarie</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/GiudicarieFault"/>
+	<skos:exactMatch rdf:resource="https://voc.europe-geology.eu/hike/faults/4623"/>
 </rdf:Description>
 
 </rdf:RDF>
