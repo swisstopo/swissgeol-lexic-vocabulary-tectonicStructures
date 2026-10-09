@@ -209,7 +209,6 @@
 	<rdfs:isDefinedBy>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</rdfs:isDefinedBy>
 	<rdfs:comment>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</rdfs:comment>
 	<skos:definition xml:lang="en">The Arbostora Anticline is a WSW–ENE trending fold occupying the southern part of the Varesotto Imbricates. It is separated to the north, by the Marzio Fault, from a complex syncline of imbricated Mesozoic sediments.</skos:definition>
-	<skos:scopeNote xml:lang="en">Southalpine</skos:scopeNote>
 	<skos:example xml:lang="en">Arbostora Anticline (Gouffon et al. 2024)</skos:example>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
 	<skos:prefLabel xml:lang="en">Arbostora Anticline</skos:prefLabel>
@@ -218,6 +217,7 @@
 	<skos:prefLabel xml:lang="it">Anticlinale di Arbostora</skos:prefLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
 	<adms:status xml:lang="en">active</adms:status>
+	<skos:scope rdf:resource="https://lexic.swissgeol.ch/TectonicUnits/SouthAlpine"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/LaegernAnticline">
@@ -985,10 +985,7 @@
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/BerisalFold">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<rdfs:isDefinedBy>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</rdfs:isDefinedBy>
-	<rdfs:comment>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</rdfs:comment>
 	<skos:definition xml:lang="en">The Berisal Backfold is a synform on the northwestern side of the Lepontine Dome, with the Berisal Nappe and the Gälmji Zone in its core.</skos:definition>
-	<skos:scopeNote xml:lang="en">Lepontic</skos:scopeNote>
 	<skos:example xml:lang="fr">synforme de Berisal (Jeanbourquin &amp; Burri 1989)</skos:example>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
 	<skos:prefLabel xml:lang="en">Berisal Backfold</skos:prefLabel>
@@ -1002,16 +999,16 @@
 	<skos:altLabel xml:lang="it">Piega retroflessa di Berisal</skos:altLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Backfold"/>
 	<adms:status xml:lang="en">active</adms:status>
+	<dct:source>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</dct:source>
+	<dct:bibliographicCitation>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</dct:bibliographicCitation>
+	<skos:scope xml:lang="en">Lepontic</skos:scope>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/WandfluhhornFold">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<rdfs:isDefinedBy>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</rdfs:isDefinedBy>
 	<rdfs:isDefinedBy>Wandfluhhorn (TI) = Pizzo Bìela (Italia): coord. 2679000/1133000</rdfs:isDefinedBy>
-	<rdfs:comment>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</rdfs:comment>
 	<skos:definition xml:lang="en">The Alpe Bosa-Wandfluhhorn Fold (located between the Maggia and Antigorio valleys) is a multi-kilometer-scale isoclinal structure formed during a late phase of deformation.</skos:definition>
 	<skos:definition xml:lang="de">Grosse isoklinale Falte westlich des Maggia-Tales. Wurde früher als synklinale Verbindung zwischen Antigorio- und Monte-Leone-Decke betrachtet (Preiswerk 1921, Niggli et al. 1936). Später als "postnappe fold" neu interpretiert (Hunziker &amp; Wieland 1966, Della Torre et al. 2015).</skos:definition>
-	<skos:scopeNote xml:lang="en">Lepontic</skos:scopeNote>
 	<skos:example xml:lang="en">Wandfluhhorn antiformal syncline = Wandfluhhorn transverse fold (Steck 2008)</skos:example>
 	<skos:example xml:lang="it">sinclinale del Wandfluhhorn (Della Torre &amp; Maggini 2015)</skos:example>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
@@ -1023,13 +1020,14 @@
 	<skos:altLabel xml:lang="it">Piega retroflessa del Wandfluhhorn</skos:altLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Backfold"/>
 	<adms:status xml:lang="en">active</adms:status>
+	<dct:source>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</dct:source>
+	<dct:bibliographicCitation>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</dct:bibliographicCitation>
+	<skos:scope xml:lang="en">Lepontic</skos:scope>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/ZiccherFold">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<rdfs:isDefinedBy>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</rdfs:isDefinedBy>
 	<rdfs:isDefinedBy>Monte Ziccer (Italia): coord. 2684600/1113000</rdfs:isDefinedBy>
-	<rdfs:comment>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</rdfs:comment>
 	<skos:definition xml:lang="en">The Ziccher Fold is a multi-kilometer-scale isoclinal structure formed during a late phase of deformation.</skos:definition>
 	<skos:example xml:lang="en">Ziccher anticline (Steck 2008)</skos:example>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
@@ -1038,14 +1036,13 @@
 	<skos:altLabel xml:lang="de">Ziccher-Antiklinale</skos:altLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Backfold"/>
 	<adms:status xml:lang="en">active</adms:status>
+	<dct:source>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</dct:source>
+	<dct:bibliographicCitation>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</dct:bibliographicCitation>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/MischabelFold">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<rdfs:isDefinedBy>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</rdfs:isDefinedBy>
-	<rdfs:comment>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</rdfs:comment>
 	<skos:definition xml:lang="en">The Mischabel Backfold is a large structure situated in the Zermatt Valley and further east. In its steep overturned flank, the Siviez-Mischabel Nappe is in contact with, from west to east, the Zermatt-Saas Fee Nappe, the Portjengrat Nappe and the Antrona Nappe.</skos:definition>
-	<skos:scopeNote xml:lang="en">Penninic</skos:scopeNote>
 	<skos:example xml:lang="de">Mischabelfalte = Mischabelrückfalte (Müller 1983)</skos:example>
 	<skos:example xml:lang="it">strutture retroflesse del Mischabel (Dal Piaz et al. 1992)</skos:example>
 	<skos:example xml:lang="en">Mischabel fold = Mischabel backfold (Steck et al. 2015)</skos:example>
@@ -1058,14 +1055,14 @@
 	<skos:altLabel xml:lang="it">Piega retroflessa delle Mischabel</skos:altLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Backfold"/>
 	<adms:status xml:lang="en">active</adms:status>
+	<dct:source>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</dct:source>
+	<dct:bibliographicCitation>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</dct:bibliographicCitation>
+	<skos:scope xml:lang="en">Penninic</skos:scope>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/NiemetBeverinFold">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<rdfs:isDefinedBy>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</rdfs:isDefinedBy>
-	<rdfs:comment>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</rdfs:comment>
 	<skos:definition xml:lang="en">The Niemet-Beverin Backfold is a very large-scale north facing structure that postdates nappe stacking of the Eastern Penninic and can be followed all the way into the Prättigau Half-Window (e.g., Schmid et al. 1990, Schreurs 1995, Weh &amp; Froitzheim 2001). The sedimentary Schams Nappe Complex and the upper part of the Lower Penninic Tomül Nappe are wrapped around the Suretta Nappe in this mega-fold and backthrust to the southeast in an overturned position over the top of the Suretta Nappe and of the Upper Penninic Avers Nappe.</skos:definition>
-	<skos:scopeNote xml:lang="en">Graubünden</skos:scopeNote>
 	<skos:example xml:lang="de">Niemet-Beverin-Falte (Wyss &amp; Wiederkehr 2017)</skos:example>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
 	<skos:prefLabel xml:lang="en">Niemet-Beverin Backfold</skos:prefLabel>
@@ -1075,6 +1072,9 @@
 	<skos:altLabel xml:lang="it">Piega retroflessa di Niemet-Beverin</skos:altLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Backfold"/>
 	<adms:status xml:lang="en">active</adms:status>
+	<dct:source>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</dct:source>
+	<dct:bibliographicCitation>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</dct:bibliographicCitation>
+	<skos:scope xml:lang="en">Graubünden</skos:scope>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/Fault">
@@ -1119,6 +1119,9 @@
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/WisnerhoechiFault"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/FaultComposite"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/FaultReverse"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/IllerFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/HalblechFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/PorcileFault"/>
 	<adms:status xml:lang="en">active</adms:status>
 </rdf:Description>
 
@@ -1128,7 +1131,7 @@
 	<rdfs:comment>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</rdfs:comment>
 	<skos:definition xml:lang="en">The Periadriatic Fault System is a complex lineament stretching from Hungary in the east, through Slovenia, Austria and Italy, to western Piemonte. This fault system marks a major tectonic boundary between the Southern Alps and the main body of the Alps to the north. 
 In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is represented by its westernmost segments, from east to west: the Giudicarie Fault, the Tonale Fault and the Canavese Fault (the last two of which are sometimes groupes together as the “Insubric Fault”).</skos:definition>
-	<skos:scopeNote xml:lang="en">Southalpine</skos:scopeNote>
+	<skos:scopeNote rdf:resource="https://lexic.swissgeol.ch/TectonicUnits/SouthAlpine"/>
 	<skos:example xml:lang="en">Peri-Adriatic line, Periadriatische Naht (Bögel 1975), Periadriatic Lineament (Hoinkes &amp; Thöni 1993), lineamento Periadriatico (Dal Piaz et al. 1992a), Periadriatic Fault System = Periadriatic Shear Zone = Insubric mylonite belt (Babist et al. 2006), Periadriatic line (Steck 2008)</skos:example>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
 	<skos:prefLabel xml:lang="en">Periadriatic Fault System</skos:prefLabel>
@@ -1155,7 +1158,7 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 	<rdfs:isDefinedBy>Montalto (Italia)</rdfs:isDefinedBy>
 	<skos:definition xml:lang="fr">Discontinuité tectonique ductile (mylonites) développée sous faciès prehnite-pumpellyite-actinote au bord méridional (= interne) de la zone du Canavese s.s.. Elle sépare cette dernière de la zone d'Ivrée (à faciès granulitique). Son âge est plus ancien que la ligne externe du Canavese (segment SW de la ligne insubrienne).</skos:definition>
 	<skos:definition xml:lang="en">The Montalto-Dora Fault ("Internal Canavese Fault") is a ductile tectonic discontinuity (mylonitic zone) developed under prehnite-pumpellyite-actinote metamorphic facies at the southern boundary of the Canavese Zone. It separates the latter from the Ivrea Zone (with granulite metamorphic facies). It is older than the northern boundary of the Canavese Zone (south-western segment of the Insubric Fault).</skos:definition>
-	<skos:scopeNote xml:lang="en">Southalpine &gt; Canavese</skos:scopeNote>
+	<skos:scopeNote rdf:resource="https://lexic.swissgeol.ch/TectonicUnits/CanaveseZone"/>
 	<skos:example xml:lang="en">Internal Canavese Line = ICL (Biino &amp; Compagnoni 1989)</skos:example>
 	<skos:example xml:lang="it">linea Montalto Dora = linea del Canavese interna (Dal Piaz et al. 1992a)</skos:example>
 	<skos:example xml:lang="en">Internal Canavese Line = ligne Interne du Canavèse (Borghi et al. 1996)</skos:example>
@@ -1168,6 +1171,8 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 	<skos:altLabel xml:lang="en">Internal Canavese Fault</skos:altLabel>
 	<skos:altLabel xml:lang="fr">Faille Interne du Canavese</skos:altLabel>
 	<skos:altLabel xml:lang="it">Faglia Interna del Canavese</skos:altLabel>
+	<skos:altLabel xml:lang="fr">Faille du Canavese Interne</skos:altLabel>
+	<skos:altLabel xml:lang="it">Faglia del Canavese Interne</skos:altLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
 	<skos:related rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/CanaveseFault"/>
 	<adms:status xml:lang="en">active</adms:status>
@@ -1308,8 +1313,8 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
 	<adms:status xml:lang="en">active</adms:status>
 	<dct:bibliographicCitation>Malusà Ma.G., Polino R., Martin S. (2005): The Gran San Bernardo nappe in the Aosta valley (western Alps): a composite stack of distinct continental crust units. Bull. Soc. géol. Fr. 176/5, 417-431</dct:bibliographicCitation>
-	<skos:scope>Middle Penninice</skos:scope>
 	<skos:scope>Vallée d'Aoste</skos:scope>
+	<skos:scope>Middle Penninic</skos:scope>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/GalloFault">
@@ -1338,7 +1343,7 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdfs:isDefinedBy>Lecco (Italia)</rdfs:isDefinedBy>
 	<skos:definition xml:lang="en">The Lecco Fault is a NW–SE trending structure separating the sediments of the former Generoso Basin from the Upper Orobic Nappe of the Bergamasc Alps. It is probably a reactivated Mesozoic fault.</skos:definition>
-	<skos:scopeNote xml:lang="en">Southalpine</skos:scopeNote>
+	<skos:scopeNote rdf:resource="https://lexic.swissgeol.ch/TectonicUnits/SouthAlpine"/>
 	<skos:example xml:lang="en">Lecco Fault (Gouffon et al. 2024)</skos:example>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
 	<skos:prefLabel xml:lang="en">Lecco Fault</skos:prefLabel>
@@ -1355,7 +1360,7 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdfs:isDefinedBy>Lago Maggiore (Italia), coord. 2689195/1084485</rdfs:isDefinedBy>
 	<skos:definition xml:lang="en">The Lago Maggiore Fault marks the boundary between the Ivrea-Ceneri Complex and the Upper Orobic Nappe. It was originally an Early Mesozoic rift fault that separated the Early Jurassic Monte Nudo Basin in the east from the Gozzano High in the west.</skos:definition>
-	<skos:scopeNote xml:lang="en">Southalpine</skos:scopeNote>
+	<skos:scopeNote rdf:resource="https://lexic.swissgeol.ch/TectonicUnits/SouthAlpine"/>
 	<skos:example xml:lang="en">Lago Maggiore Fault (Gouffon et al. 2024)</skos:example>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
 	<skos:prefLabel xml:lang="en">Lago Maggiore Fault</skos:prefLabel>
@@ -1372,7 +1377,7 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/CossatoMergozzoBrissagoFault">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:definition xml:lang="en">The Cossato-Mergozzo-Brissago Fault separates the Ivrea Zone from the Strona-Ceneri Zone. It is interpreted as a Permian fault zone due to its association with Permian granites and its later cutting by the Pogallo Fault.</skos:definition>
-	<skos:scopeNote xml:lang="en">Southalpine</skos:scopeNote>
+	<skos:scopeNote rdf:resource="https://lexic.swissgeol.ch/TectonicUnits/SouthAlpine"/>
 	<skos:example xml:lang="it">linea di Cossago/Cossato-Mergozzo-Brissago (Dal Piaz et al. 1992a)</skos:example>
 	<skos:example xml:lang="en">Cossato-Mergozzo-Brissago Fault = CMB (Gouffon et al. 2024)</skos:example>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
@@ -1390,7 +1395,7 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/CremosinaFault">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:definition xml:lang="en">The WSW–ENE trending Cremosina Fault is a major structure cutting the Ivrea-Ceneri Complex south of the Lago d’Orta, with Early Jurassic sediments trapped along it.</skos:definition>
-	<skos:scopeNote xml:lang="en">Southalpine</skos:scopeNote>
+	<skos:scopeNote rdf:resource="https://lexic.swissgeol.ch/TectonicUnits/SouthAlpine"/>
 	<skos:example xml:lang="en">Cremosina Fault (Gouffon et al. 2024)</skos:example>
 	<skos:example xml:lang="it">linea della Cremosina (Dal Piaz et al. 1992a)</skos:example>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
@@ -1409,7 +1414,7 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 	<rdfs:isDefinedBy>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</rdfs:isDefinedBy>
 	<rdfs:comment>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</rdfs:comment>
 	<skos:definition xml:lang="en">The Late Variscan Val Colla Fault is a mylonitic fault zone separating the Strona-Ceneri and Val Colla zones and sealed at M. Caslano, west of Lugano, by unconformably overlying Permian volcanics. In the northeast, the Val Colla Fault is cut by Alpine faults and interrupted by the Tonale Fault.</skos:definition>
-	<skos:scopeNote xml:lang="en">Southalpine</skos:scopeNote>
+	<skos:scopeNote rdf:resource="https://lexic.swissgeol.ch/TectonicUnits/SouthAlpine"/>
 	<skos:example xml:lang="en">Val Colla Fault (Gouffon et al. 2024)</skos:example>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
 	<skos:prefLabel xml:lang="en">Val Colla Fault</skos:prefLabel>
@@ -1423,7 +1428,7 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/MarzioFault">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:definition xml:lang="en">The Marzio Fault separates the WSW–ENE trending Arbostora Anticline (southern part of the Varesotto Imbricates) from a complex syncline of imbricated Mesozoic sediments.</skos:definition>
-	<skos:scopeNote xml:lang="en">Southalpine &gt; Varesotto</skos:scopeNote>
+	<skos:scopeNote rdf:resource="https://lexic.swissgeol.ch/TectonicUnits/VaresottoImbricates"/>
 	<skos:example xml:lang="en">Marzio Fault (Gouffon et al. 2024)</skos:example>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
 	<skos:prefLabel xml:lang="en">Marzio Fault</skos:prefLabel>
@@ -1554,8 +1559,6 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/RoteKuhGampelFault">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<rdfs:isDefinedBy>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</rdfs:isDefinedBy>
-	<rdfs:comment>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</rdfs:comment>
 	<skos:definition xml:lang="en">The Rote Kuh-Gampel Shear Zone is a reactivated paleofault separating the External Aar Massif to the north-west from the Internal Aar Massif to the south-east.</skos:definition>
 	<skos:scopeNote xml:lang="en">Helvetic</skos:scopeNote>
 	<skos:example xml:lang="fr">faille Rote Kuh-Gampel (Burkhard 1988)</skos:example>
@@ -1571,16 +1574,16 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 	<skos:altLabel xml:lang="de">Roti-Chüe-Gampel-Scherzone</skos:altLabel>
 	<skos:altLabel xml:lang="en">Roti Chüe-Gampel Shear Zone</skos:altLabel>
 	<skos:altLabel xml:lang="fr">Zone de cisaillement de la Roti Chüe-Gampel</skos:altLabel>
-	<skos:altLabel>Zona di taglia della Roti Chüe-Gampel</skos:altLabel>
+	<skos:altLabel xml:lang="it">Zona di taglia della Roti Chüe-Gampel</skos:altLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ZoneShear"/>
 	<adms:status xml:lang="en">active</adms:status>
+	<dct:source>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</dct:source>
+	<dct:bibliographicCitation>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</dct:bibliographicCitation>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/StellihornFault">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<rdfs:isDefinedBy>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</rdfs:isDefinedBy>
 	<rdfs:isDefinedBy>Stellihorn (VS): coord. 2643535/1098460</rdfs:isDefinedBy>
-	<rdfs:comment>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</rdfs:comment>
 	<skos:definition xml:lang="en">The Stellihorn Shear Zone separates the basement of the Monte Rosa Nappe into two parts.</skos:definition>
 	<skos:definition xml:lang="de">Alpine Scherzone am nördlichen Rand der Monte-Rosa-Decke.</skos:definition>
 	<skos:scopeNote xml:lang="en">Penninic</skos:scopeNote>
@@ -1597,13 +1600,13 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 	<skos:altLabel xml:lang="it">Zona di taglio dello Stelli</skos:altLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ZoneShear"/>
 	<adms:status xml:lang="en">active</adms:status>
+	<dct:source>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</dct:source>
+	<dct:bibliographicCitation>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</dct:bibliographicCitation>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/ArcegnoPalanzenoFault">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<rdfs:isDefinedBy>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</rdfs:isDefinedBy>
 	<rdfs:isDefinedBy>Arcegno (TI): coord. 2700735/1113175</rdfs:isDefinedBy>
-	<rdfs:comment>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</rdfs:comment>
 	<skos:definition xml:lang="en">The Arcegno-Palanzeno Shear Zone (Burri 2005) is situated in the E-W striking “root zone” of the Penninic and Lepontic nappes (Southern Steep Belt; Milnes 1974 b) and was later overprinted by the Centovalli Fault.</skos:definition>
 	<skos:example xml:lang="de">Südliche Gneis- und Schieferzone = Zone von Arcegno (Kern 1947)</skos:example>
 	<skos:example xml:lang="de">Zone von Arcegno (Forster 1947, Walter 1950, Paraskevopoulos 1953, Kobe 1956)</skos:example>
@@ -1616,6 +1619,8 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 	<skos:editorialNote xml:lang="en">This zone is rather a tectono-stratigraphic unit (strongly deformed gneiss and schist of the Sesia Nappe).</skos:editorialNote>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ZoneShear"/>
 	<adms:status xml:lang="en">active</adms:status>
+	<dct:source>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</dct:source>
+	<dct:bibliographicCitation>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</dct:bibliographicCitation>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/FaultReverse">
@@ -1638,7 +1643,7 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 	<rdfs:comment>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</rdfs:comment>
 	<skos:definition xml:lang="en">The term of “Insubric Fault” designates the Tonale and Canavese faults, which accommodate dextral slip motion and/or backthrusting of the nappe stack north of these faults over the South Alpine domain. The ductile fault rocks (mylonites) found along the Insubric Fault primarily formed during the Oligocene (32–23 Ma; Schmid et al. 1989), while the brittle component observed along the Tonale Fault is considerably younger (Müller et al. 2002, Pleuger et al. 2012).</skos:definition>
 	<skos:definition xml:lang="it">Complesso sistema di miloniti e cataclasiti che separa tettonicamente le unità Pennidi ed Austridi dal basamento Sudalpino.</skos:definition>
-	<skos:scopeNote xml:lang="en">Southalpine</skos:scopeNote>
+	<skos:scopeNote rdf:resource="https://lexic.swissgeol.ch/TectonicUnits/SouthAlpine"/>
 	<skos:example xml:lang="en">Linea Insubrica (Godenzi 1963, Sciesa 1991), Insubrian line, Insubric fault, Insubrische Linie, Insubric fault = Insubrische Störung = faille insubrienne (Gouffon et al. 2024)</skos:example>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
 	<skos:prefLabel xml:lang="en">Insubric Fault</skos:prefLabel>
@@ -1662,7 +1667,7 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 	<rdfs:isDefinedBy>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</rdfs:isDefinedBy>
 	<rdfs:comment>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</rdfs:comment>
 	<skos:definition xml:lang="en">The Giudicarie Fault represents a NNE- SSW oriented segment of the Periadriatic Fault System.. It separates two E-W segments of this Periadriatic Fault System: the Tonale Fault in the west and the Pustertal-Gailtal Fault in the east, which are offset by about 75 km. The southern part of the Giudicarie Fault is entirely located in the South Alpine, while the northern part separates Austroalpine units to the west and South Alpine units to the east. Only the southern part occurs in the area of the map (SE border), with a small portion of the northern part occurring at the eastern edge of the map area.</skos:definition>
-	<skos:scopeNote xml:lang="en">Southalpine</skos:scopeNote>
+	<skos:scopeNote rdf:resource="https://lexic.swissgeol.ch/TectonicUnits/SouthAlpine"/>
 	<skos:example xml:lang="en">ligne judicarienne (Henny 1918), Judicarien-Linie, Giudicarie Fault = Giudicarie-Störung = Faille des Giudicarie (Gouffon et al. 2024)</skos:example>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
 	<skos:prefLabel xml:lang="en">Giudicarie Fault</skos:prefLabel>
@@ -1714,8 +1719,8 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 	<rdfs:comment>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</rdfs:comment>
 	<skos:definition xml:lang="fr">Discontinuité tectonique cassante développée au bord septentrional (= externe) de la zone du Canavese s.s. Elle sépare cette dernière de la zone de Sesia. En direction du nord-est, la zone du Canavese se pince et la ligne du Canavese rejoint alors la terminaison sud-occidentale de la ligne insubrienne entre la zone d'Ivrée à métamorphisme granulitique anté-alpin et la nappe de Sesia à métamorphisme éclogitique alpin.</skos:definition>
 	<skos:definition xml:lang="en">The (External) Canavese Fault is a major tectonic discontinuity developed along the northern boundary of the Canavese Zone. It separates the latter from the Sesia Nappe. Towards the north-east, the Canavese Zone gets narrower and the Canavese Fault then joins the south-western tip of the Insubric Fault between the Ivrea Zone (with pre-Alpine granulitic metamorphism) and the Sesia Nappe (with Alpine eclogitic metamorphism).</skos:definition>
-	<skos:scopeNote xml:lang="en">Southalpine</skos:scopeNote>
 	<skos:scopeNote xml:lang="en">The "Internal Canavese Fault", bounding the Canavese Zone towards the southeast, at the contact with the Ivrea Zone, should rather be referred to as the Montalto-Dora Fault in order to avoid confusion with the (External) Canavese Zone.</skos:scopeNote>
+	<skos:scopeNote rdf:resource="https://lexic.swissgeol.ch/TectonicUnits/SouthAlpine"/>
 	<skos:example xml:lang="en">xxx (Novarese 1929), South Canavese Line (Boriani &amp; Sacchi 1974), Ligne du Canavese (Steck &amp; Tièche 1976), External Canavese Line = ECL (Biino &amp; Compagnoni 1989), linea del Canavese (Dal Piaz et al. 1992a), External Canavese Line = ligne Externe du Canavèse (Borghi et al. 1996), external Canavese line = ECL = Canavese line s.s. (Ferrando et al. 2004), Canavese Fault = Canavese-Störung = Faille du Canavese (Gouffon et al. 2024)</skos:example>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
 	<skos:prefLabel xml:lang="en">Canavese Fault</skos:prefLabel>
@@ -1724,6 +1729,8 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 	<skos:prefLabel xml:lang="it">Faglia del Canavese</skos:prefLabel>
 	<skos:altLabel xml:lang="en">External Canavese Fault</skos:altLabel>
 	<skos:altLabel xml:lang="en">Canavese Line</skos:altLabel>
+	<skos:altLabel xml:lang="de">Externe Canavese-Störung</skos:altLabel>
+	<skos:altLabel xml:lang="fr">Faille du Canavese Externe</skos:altLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/InsubricFault"/>
 	<skos:related rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MontaltoDoraFault"/>
 	<skos:closeMatch rdf:resource="https://voc.europe-geology.eu/hike/faults/4621"/>
@@ -1735,7 +1742,7 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 	<rdfs:isDefinedBy>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</rdfs:isDefinedBy>
 	<rdfs:comment>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</rdfs:comment>
 	<skos:definition xml:lang="en">The Tonale Fault, formed by dextral shearing under ductile and later brittle conditions, is part of the Periadriatic Fault System. It separates the Austroalpine units of the Central Alps in the north from the South Alpine units in the south.</skos:definition>
-	<skos:scopeNote xml:lang="en">Southalpine</skos:scopeNote>
+	<skos:scopeNote rdf:resource="https://lexic.swissgeol.ch/TectonicUnits/SouthAlpine"/>
 	<skos:example xml:lang="en">faille du Tonale (Henny 1918), accident du Tonale, Jorio-Tonale, Iorio-Tonale-Linie = Insubriche Linie (Knoblauch &amp; Reinhard 1939), Tonale-Linie = Tonale-Störung (Büchi &amp; Trümpy 1976), Tonale-Centovalli (Boriani et al. 1990), Faglia del Tonale (Scesia 1991), Steilzone nördlich des Veltins ~ Tonale Linie (Spillmann 1993), Tonale Fault = Tonale-Störung = Faille du Tonale (Gouffon et al. 2024)</skos:example>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
 	<skos:prefLabel xml:lang="en">Tonale Fault</skos:prefLabel>
@@ -1781,7 +1788,9 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/AostaRanzolaFault">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:definition xml:lang="en">The E -W trending Aosta-Ranzola Fault consists of a 1–2 km wide network of closely spaced and predominantly N-dipping normal faults that follow the Valle d’Aosta between Brusson and Aosta. The maximum cumulative vertical throw across this steeply N-dipping central part of the fault system exhuming the footwall located on the southern side of the valley amounts to some 3 km (Bistacchi et al. 2001). East of Brusson, this normal fault finds a rather abrupt end against the Ospizio-Sottile Fault. The Aosta-Ranzola Fault is of Oligocene age, as documented by the synkinematic emplacement of gold bearing quartz veins and calc-alkaline dykes dated at 29 Ma (Dal Piaz et al. 1979, Diamond &amp; Wiedenbeck 1986).</skos:definition>
+	<rdfs:isDefinedBy>Aosta (Italia): coord. 2590925/1064675</rdfs:isDefinedBy>
+	<rdfs:isDefinedBy>Colle (della) Ranzola (Italia): coord. 2628390/1067000</rdfs:isDefinedBy>
+	<skos:definition xml:lang="en">The E-W trending Aosta-Ranzola Fault consists of a 1–2 km wide network of closely spaced and predominantly N-dipping normal faults that follow the Valle d’Aosta between Brusson and Aosta. The maximum cumulative vertical throw across this steeply N-dipping central part of the fault system exhuming the footwall located on the southern side of the valley amounts to some 3 km (Bistacchi et al. 2001). East of Brusson, this normal fault finds a rather abrupt end against the Ospizio-Sottile Fault. The Aosta-Ranzola Fault is of Oligocene age, as documented by the synkinematic emplacement of gold bearing quartz veins and calc-alkaline dykes dated at 29 Ma (Dal Piaz et al. 1979, Diamond &amp; Wiedenbeck 1986).</skos:definition>
 	<skos:example xml:lang="en">Aosta fault (Steck et al. 2015)</skos:example>
 	<skos:example xml:lang="en">Aosta-Ranzola Fault (Gouffon et al. 2024)</skos:example>
 	<skos:example xml:lang="it">faglia oligocenico-neogenica Aosta-Colle di Joux-Ranzola = linea Aosta-Ranzola (Dal Piaz et al. 1992a)</skos:example>
@@ -1956,7 +1965,7 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 	<rdfs:isDefinedBy>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</rdfs:isDefinedBy>
 	<rdfs:comment>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</rdfs:comment>
 	<skos:definition xml:lang="en">The Lugano-Monte Grona-Val Grande Fault System is a major Mesozoic normal fault of the South Alpine domain. It is subdivided into three segments: the N–S trending Lugano Fault (between Mendrisio and Lugano), the W–E oriented Monte Grona Fault (between Lugano and Lago di Como) and the SW–NE oriented Val Grande Fault (between Lago di Como and M. Legnone).</skos:definition>
-	<skos:scopeNote xml:lang="en">Southalpine</skos:scopeNote>
+	<skos:scopeNote rdf:resource="https://lexic.swissgeol.ch/TectonicUnits/SouthAlpine"/>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
 	<skos:prefLabel xml:lang="en">Lugano-Monte Grona-Val Grande Fault System</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Système de failles Lugano-Monte Grona-Val Grande</skos:prefLabel>
@@ -1981,6 +1990,7 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MortiroloFault"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MezzaunFault"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/PogalloFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/DucanFault"/>
 	<adms:status xml:lang="en">active</adms:status>
 </rdf:Description>
 
@@ -2113,8 +2123,8 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
 	<skos:prefLabel xml:lang="en">La Ferrière Fault Zone</skos:prefLabel>
 	<skos:prefLabel xml:lang="de">La-Ferrière-Störungszone</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Zone de faillea de la Ferrière</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Zona di faglie della Ferrière</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Zone de failles de la Ferrière</skos:prefLabel>
 	<skos:altLabel xml:lang="fr">Accident of La Ferrière</skos:altLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/FaultStrikeSlipSinistral"/>
 	<adms:status xml:lang="en">active</adms:status>
@@ -2604,10 +2614,10 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/LuganoFault">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<rdfs:isDefinedBy>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</rdfs:isDefinedBy>
+	<rdfs:isDefinedBy>Lugano (CH-TI): coord. 2719775/1094750</rdfs:isDefinedBy>
 	<rdfs:comment>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</rdfs:comment>
 	<skos:definition xml:lang="en">The N–S trending Lugano Fault represents the southern segment of the Lugano-Monte Grona-Val Grande Fault System. It extends at least from Mendrisio northwards to northeast of Lugano.</skos:definition>
-	<skos:scopeNote xml:lang="en">Southalpine</skos:scopeNote>
+	<skos:scopeNote rdf:resource="https://lexic.swissgeol.ch/TectonicUnits/SouthAlpine"/>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
 	<skos:prefLabel xml:lang="en">Lugano Fault</skos:prefLabel>
 	<skos:prefLabel xml:lang="de">Lugano-Störung</skos:prefLabel>
@@ -2615,6 +2625,7 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 	<skos:prefLabel xml:lang="it">Faglia di Lugano</skos:prefLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/LuganoMonteGronaValGrandeFault"/>
 	<adms:status xml:lang="en">active</adms:status>
+	<dct:bibliographicCitation>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</dct:bibliographicCitation>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/MonteGronaFault">
@@ -2622,7 +2633,7 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 	<rdfs:isDefinedBy>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</rdfs:isDefinedBy>
 	<rdfs:comment>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</rdfs:comment>
 	<skos:definition xml:lang="en">The W–E oriented Monte Grona Fault represents the median segment of the Lugano-Monte Grona-Val Grande Fault System. It extends from northeast of Lugano to Lago di Como and was reactivated as an alpine backthrust (N-directed),</skos:definition>
-	<skos:scopeNote xml:lang="en">Southalpine</skos:scopeNote>
+	<skos:scopeNote rdf:resource="https://lexic.swissgeol.ch/TectonicUnits/SouthAlpine"/>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
 	<skos:prefLabel xml:lang="en">Monte Grona Backthrust</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Rétrochevauchement du Monte Grona</skos:prefLabel>
@@ -2642,7 +2653,7 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 	<rdfs:isDefinedBy>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</rdfs:isDefinedBy>
 	<rdfs:comment>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</rdfs:comment>
 	<skos:definition xml:lang="en">The SW–NE oriented Val Grande Fault represents the northeastern segment of the Lugano-Monte Grona-Val Grande Fault System. It extends from Lago di Como eastwards at least up to M. Legnone.</skos:definition>
-	<skos:scopeNote xml:lang="en">Southalpine</skos:scopeNote>
+	<skos:scopeNote rdf:resource="https://lexic.swissgeol.ch/TectonicUnits/SouthAlpine"/>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
 	<skos:prefLabel xml:lang="en">Val Grande Fault</skos:prefLabel>
 	<skos:prefLabel xml:lang="de">Val-Grande-Störung</skos:prefLabel>
@@ -2669,7 +2680,7 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/PogalloFault">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<skos:definition xml:lang="en">The Pogallo Fault, active as a low-angle detachment during Mesozoic rifting, separated the lower crustal Ivrea rocks from the middle–upper crustal Strona-Ceneri basement.</skos:definition>
-	<skos:scopeNote xml:lang="en">Southalpine</skos:scopeNote>
+	<skos:scopeNote rdf:resource="https://lexic.swissgeol.ch/TectonicUnits/SouthAlpine"/>
 	<skos:example xml:lang="it">Pogallo-Lago d'Orta (Boriani et al. 1990)</skos:example>
 	<skos:example xml:lang="it">linea del Pogallo (Dal Piaz et al. 1992a)</skos:example>
 	<skos:example xml:lang="en">Pogallo Fault (Gouffon et al. 2024)</skos:example>
@@ -2730,6 +2741,7 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 	<skos:prefLabel xml:lang="fr">Faille de l'Engadine</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Faglia dell'Engadina</skos:prefLabel>
 	<skos:altLabel xml:lang="en">Engadine Line</skos:altLabel>
+	<skos:altLabel xml:lang="de">Engadiner Störung</skos:altLabel>
 	<skos:notation>EL</skos:notation>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/FaultComposite"/>
 	<skos:broadMatch rdf:resource="https://resource.geosphere.at/thes/fault/171"/>
@@ -2805,7 +2817,7 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdfs:isDefinedBy>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</rdfs:isDefinedBy>
 	<rdfs:comment>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</rdfs:comment>
-	<skos:scopeNote xml:lang="en">Southalpine</skos:scopeNote>
+	<skos:scopeNote rdf:resource="https://lexic.swissgeol.ch/TectonicUnits/SouthAlpine"/>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
 	<skos:prefLabel xml:lang="en">Val Trompia Thrust</skos:prefLabel>
 	<skos:prefLabel xml:lang="de">Val-Trompia-Überschiebung</skos:prefLabel>
@@ -2885,16 +2897,20 @@ From its geographical description, the Gallo Fault In HIKE (4615) and Geosphere 
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/TamaroThrust">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<rdfs:isDefinedBy>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</rdfs:isDefinedBy>
+	<rdfs:isDefinedBy>Monte Tamaro (CH-TI): coord. 2710360/1106830</rdfs:isDefinedBy>
 	<rdfs:comment>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</rdfs:comment>
 	<skos:definition xml:lang="en">The Tamaro Thrust marks the boundary between the Ivrea-Ceneri Complex and the Upper Orobic Nappe.</skos:definition>
-	<skos:scopeNote xml:lang="en">Southalpine</skos:scopeNote>
+	<skos:scopeNote rdf:resource="https://lexic.swissgeol.ch/TectonicUnits/SouthAlpine"/>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
 	<skos:prefLabel xml:lang="en">Tamaro Thrust</skos:prefLabel>
 	<skos:prefLabel xml:lang="de">Tamaro-Überschiebung</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Chevauchement du (Monte) Tamaro</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Sovrascorrimento del (Monte) Tamaro</skos:prefLabel>
 	<skos:altLabel xml:lang="en">Tamaro Fault</skos:altLabel>
+	<skos:altLabel xml:lang="it">Linea del Tamaro</skos:altLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Thrust"/>
 	<adms:status xml:lang="en">active</adms:status>
+	<dct:bibliographicCitation>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</dct:bibliographicCitation>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/VillafortunaThrust">
@@ -2902,7 +2918,7 @@ From its geographical description, the Gallo Fault In HIKE (4615) and Geosphere 
 	<rdfs:isDefinedBy>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</rdfs:isDefinedBy>
 	<rdfs:comment>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</rdfs:comment>
 	<skos:definition xml:lang="en">The Villaforuna Thrust is a S-vergent thrust forming, together with the Monte Olimpino Backthrust, a broad syncline in the subsurface of the Po Plain.</skos:definition>
-	<skos:scopeNote xml:lang="en">Southalpine</skos:scopeNote>
+	<skos:scopeNote rdf:resource="https://lexic.swissgeol.ch/TectonicUnits/SouthAlpine"/>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
 	<skos:prefLabel xml:lang="en">Villafortuna Thrust</skos:prefLabel>
 	<skos:prefLabel xml:lang="de">Villafortuna-Überschiebung</skos:prefLabel>
@@ -2960,7 +2976,6 @@ From its geographical description, the Gallo Fault In HIKE (4615) and Geosphere 
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/GugenThrust"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BenkerjochThrust"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/SchinznachThrust"/>
-	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/LinnForward"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MandachThrust"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MontTerriThrust"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/PaudezeThrust"/>
@@ -2992,6 +3007,8 @@ From its geographical description, the Gallo Fault In HIKE (4615) and Geosphere 
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ReculetThrust"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BrevineThrustForward"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/RottenbuchThrust"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ArosioFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/LinnThrust"/>
 	<adms:status xml:lang="en">active</adms:status>
 </rdf:Description>
 
@@ -3662,17 +3679,6 @@ From its geographical description, the Gallo Fault In HIKE (4615) and Geosphere 
 	<adms:status xml:lang="en">active</adms:status>
 </rdf:Description>
 
-<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/LinnForward">
-	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<skos:definition xml:lang="en">The Linn Thrust is the frontal N-vergent thrust delimiting the Urgiz Block.</skos:definition>
-	<skos:scopeNote xml:lang="en">swissJura3D</skos:scopeNote>
-	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
-	<skos:prefLabel xml:lang="de">Linn-Überschiebung</skos:prefLabel>
-	<skos:prefLabel xml:lang="en">Linn Thrust</skos:prefLabel>
-	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ThrustForward"/>
-	<adms:status xml:lang="en">active</adms:status>
-</rdf:Description>
-
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/MandachThrust">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
 	<rdfs:isDefinedBy>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</rdfs:isDefinedBy>
@@ -4037,6 +4043,9 @@ From its geographical description, the Gallo Fault In HIKE (4615) and Geosphere 
 	<skos:scopeNote xml:lang="en">swissJura3D</skos:scopeNote>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
 	<skos:prefLabel xml:lang="en">Ajoie Thrust</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Chevauchement de l'Ajoie</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Ajoie-Überschiebung</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Sovrascorrimento dell'Ajoie</skos:prefLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/JuraMainThrust"/>
 	<adms:status xml:lang="en">active</adms:status>
 </rdf:Description>
@@ -4046,7 +4055,7 @@ From its geographical description, the Gallo Fault In HIKE (4615) and Geosphere 
 	<rdfs:isDefinedBy>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</rdfs:isDefinedBy>
 	<rdfs:comment>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</rdfs:comment>
 	<skos:definition xml:lang="en">The Monte Olimpino Backthrust, developped during the latest phases of deformation of the Lower Orobic Imbricates, brought the Lombardian Gompholite (synorogenic sediments ot the Milan Belt) onto the Lower Orobic Imbricates in the area south of Como–Chiasso–Varese.</skos:definition>
-	<skos:scopeNote xml:lang="en">Southalpine</skos:scopeNote>
+	<skos:scopeNote rdf:resource="https://lexic.swissgeol.ch/TectonicUnits/SouthAlpine"/>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
 	<skos:prefLabel xml:lang="en">Monte Olimpino Backthrust</skos:prefLabel>
 	<skos:prefLabel xml:lang="de">Monte-Olimpino-Rücküberschiebung</skos:prefLabel>
@@ -4168,8 +4177,6 @@ From its geographical description, the Gallo Fault In HIKE (4615) and Geosphere 
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/TurbaZone">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<rdfs:isDefinedBy>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</rdfs:isDefinedBy>
-	<rdfs:comment>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</rdfs:comment>
 	<skos:definition xml:lang="en">The Turba Shear Zone is a large normal fault separating the southernmost part of the Avers Nappe and the backthrust Schams and Tomül nappes in the footwall from the Platta and Malenco-Forno-Lizun nappes in the hangingwall.</skos:definition>
 	<skos:scopeNote xml:lang="en">Penninic</skos:scopeNote>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
@@ -4185,12 +4192,12 @@ From its geographical description, the Gallo Fault In HIKE (4615) and Geosphere 
 	<skos:changeNote xml:lang="en">"Shear Zone" for naming the tectonic structure (process), "Mylonite Zone" for naming the tectonic unit and "Mylonite" for naming the material (body of rock).</skos:changeNote>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ZoneShear"/>
 	<adms:status xml:lang="en">active</adms:status>
+	<dct:source>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</dct:source>
+	<dct:bibliographicCitation>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</dct:bibliographicCitation>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/VinschgauZone">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<rdfs:isDefinedBy>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</rdfs:isDefinedBy>
-	<rdfs:comment>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</rdfs:comment>
 	<skos:definition xml:lang="en">The Vinschgau Shear Zone represents the structurally highest unit of the Campo Nappe Complex and constitutes a greenschist-facies Alpine mylonitic belt with a thickness of up to 2–3 km that accommodates W-  directed thrusting of the Ötztal Nappe Complex in the area north of the Vinschgau Valley floor (Schmid &amp; Haas 1989). South of the valley floor and in the lowermost Val Müstair, the same mylonitic belt accommodates WNW-  directed thrusting of the easternmost part of the Umbrail-Terza Slice Complex over the S-charl-Sesvenna Nappe (Conti 1997). The protoliths of this mylonitic belt include pre-Permian basement, sericite-rich Permo-Triassic siliciclastic metasediments and rare occurrences of mid-Triassic carbonates that are part of the Campo Nappe Complex. The fact that the Vinschgau Shear Zone directly overlies both the rest of the Campo Nappe Complex and the easternmost parts of the S-charl-Sesvenna Nappe shows that, at a large scale, the Campo Nappe Complex and the S-charl-Sesvenna Nappe occupy about the same tectonic position within the Upper Austroalpine nappe stack.</skos:definition>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
 	<skos:prefLabel xml:lang="en">Vinschgau Shear Zone</skos:prefLabel>
@@ -4199,13 +4206,13 @@ From its geographical description, the Gallo Fault In HIKE (4615) and Geosphere 
 	<skos:prefLabel xml:lang="it">Zona di Taglio della Val Venosta</skos:prefLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ZoneShear"/>
 	<adms:status xml:lang="en">active</adms:status>
+	<dct:source>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</dct:source>
+	<dct:bibliographicCitation>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</dct:bibliographicCitation>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/RoisanCignanaZone">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<rdfs:isDefinedBy>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</rdfs:isDefinedBy>
 	<rdfs:isDefinedBy>Roisan (Italia): coord. 2590160/1070375</rdfs:isDefinedBy>
-	<rdfs:comment>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</rdfs:comment>
 	<skos:definition xml:lang="en">The Roisan-Cignana Shear Zone (Manzotti et al. 2014 a) is a strongly deformed mélange zone separating the Dent Blanche Nappe (below) from the Mont Mary Nappe (above). It The consists of slices of Mesozoic sediments and crystalline basement in a mylonitic matrix derived from the adjacent Dent Blanche Nappe (Arolla Unit) and of the Mont Mary Nappe (Lower and Upper units) (Manzotti et al. 2014a). The high-pressure mineral assemblages along the contact between these tectonic slices indicates that their emplacement occurred in an early deformation stage, before or during the subduction.</skos:definition>
 	<skos:scopeNote xml:lang="en">Salassic</skos:scopeNote>
 	<skos:example xml:lang="en">Roisan-Cignana Shear Zone (Manzotti &amp; Ballèvre 2017, Gouffon et al. 2024)</skos:example>
@@ -4218,6 +4225,8 @@ From its geographical description, the Gallo Fault In HIKE (4615) and Geosphere 
 	<skos:prefLabel xml:lang="it">Zona di taglio di Roisan-Cignana</skos:prefLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ZoneShear"/>
 	<adms:status xml:lang="en">active</adms:status>
+	<dct:source>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</dct:source>
+	<dct:bibliographicCitation>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</dct:bibliographicCitation>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/ZoneMylonite">
@@ -4234,8 +4243,6 @@ From its geographical description, the Gallo Fault In HIKE (4615) and Geosphere 
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/EuropeanCenozoicRift">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<rdfs:isDefinedBy>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</rdfs:isDefinedBy>
-	<rdfs:comment>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</rdfs:comment>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
 	<skos:prefLabel xml:lang="en">European Cenozoic Rift System</skos:prefLabel>
 	<skos:prefLabel xml:lang="de">Europäisches Känozoisches Riftsystem</skos:prefLabel>
@@ -4244,6 +4251,8 @@ From its geographical description, the Gallo Fault In HIKE (4615) and Geosphere 
 	<skos:altLabel xml:lang="en">West European Rift System</skos:altLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ZoneRift"/>
 	<adms:status xml:lang="en">active</adms:status>
+	<dct:source>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</dct:source>
+	<dct:bibliographicCitation>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</dct:bibliographicCitation>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/BolettoneThrust">
@@ -4252,6 +4261,7 @@ From its geographical description, the Gallo Fault In HIKE (4615) and Geosphere 
 	<rdfs:isDefinedBy>Monte Bolettone (Italia - Lombardia): coord. 2735200/1076385&amp;</rdfs:isDefinedBy>
 	<rdfs:comment>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</rdfs:comment>
 	<skos:definition xml:lang="en">The Bolettone Thrust is a major tectonic structure of the Southern Prealps, traversing the Larian Triangle area between Lake Como and Lake Lecco.</skos:definition>
+	<skos:scopeNote rdf:resource="https://lexic.swissgeol.ch/TectonicUnits/SouthAlpine"/>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
 	<skos:prefLabel xml:lang="en">Bolettone Thrust</skos:prefLabel>
 	<skos:prefLabel xml:lang="de">Bolettone-Überschiebung</skos:prefLabel>
@@ -4277,7 +4287,6 @@ From its geographical description, the Gallo Fault In HIKE (4615) and Geosphere 
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/AllingesWestFault">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<rdfs:isDefinedBy>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</rdfs:isDefinedBy>
 	<rdfs:isDefinedBy>Allinges (France 74-Haute-Savoie): coord. 2523480/1130930</rdfs:isDefinedBy>
 	<rdfs:comment>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</rdfs:comment>
 	<skos:definition xml:lang="en">The Allinges west Fault (between Mésinges and Perrignier, SW of Allinges) is a SSW-NNE strike-slip fault at the front of the Voirons Nappe.</skos:definition>
@@ -4289,6 +4298,8 @@ From its geographical description, the Gallo Fault In HIKE (4615) and Geosphere 
 	<skos:altLabel xml:lang="en">Allinges western Fault</skos:altLabel>
 	<skos:altLabel xml:lang="fr">Faille de Mésinges</skos:altLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/FaultStrikeSlipSinistral"/>
+	<adms:status xml:lang="en">active</adms:status>
+	<dct:bibliographicCitation>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</dct:bibliographicCitation>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/BretNovelFault">
@@ -5048,18 +5059,26 @@ From its geographical description, the Gallo Fault In HIKE (4615) and Geosphere 
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/ValtortaValcanaleThrust">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<rdfs:isDefinedBy>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</rdfs:isDefinedBy>
-	<rdfs:comment>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</rdfs:comment>
+	<rdfs:isDefinedBy>Valtorta (Italia - Lombardia): coord. 2762520/1093890</rdfs:isDefinedBy>
+	<rdfs:isDefinedBy>Valcanale (Italia - Lombardia): coord. 2787730/1091715</rdfs:isDefinedBy>
+	<skos:scopeNote rdf:resource="https://lexic.swissgeol.ch/TectonicUnits/SouthAlpine"/>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
 	<skos:prefLabel xml:lang="en">Valtorta-Valcanale Thrust</skos:prefLabel>
 	<skos:prefLabel xml:lang="de">Valtorta-Valcanale-Überschiebung</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Chevauchement de Valtorta-Valcanale</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Sovrascorrimento di Valtorta-Valcanale</skos:prefLabel>
+	<skos:altLabel xml:lang="en">Valtorta Fault</skos:altLabel>
+	<skos:altLabel xml:lang="de">Valtorta-Störung</skos:altLabel>
+	<skos:altLabel xml:lang="fr">Faille de Valtorta</skos:altLabel>
+	<skos:altLabel xml:lang="it">Faglia di Valtorta</skos:altLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Thrust"/>
+	<dct:source>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</dct:source>
+	<dct:bibliographicCitation>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</dct:bibliographicCitation>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/HohgantRawilFault">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<rdfs:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/FaultSynsedimentary"/>
 	<skos:definition xml:lang="fr">Faille synsédimentaire ... Au NW se développent les faciès gréseux de la Fm. du Niederhorhn, tandis qu'au SE se déposent les Fm. du Wildstrubel et du Klimsenhorn.</skos:definition>
 	<skos:example xml:lang="de">Hohgant-Rawil-Bruchzone (Menkveld-Gfeller 1994)</skos:example>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
@@ -5068,6 +5087,7 @@ From its geographical description, the Gallo Fault In HIKE (4615) and Geosphere 
 	<skos:prefLabel xml:lang="fr">Zone de failles du Hohgant-Rawil</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Zona di faglie Hohgant-Rawil</skos:prefLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ZoneCataclastic"/>
+	<adms:status xml:lang="en">active</adms:status>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/PanixerpassFault">
@@ -5083,6 +5103,7 @@ From its geographical description, the Gallo Fault In HIKE (4615) and Geosphere 
 	<skos:altLabel xml:lang="fr">Faille transverse du Panixerpass</skos:altLabel>
 	<skos:altLabel xml:lang="en">Panixerpass Transverse Zone</skos:altLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ZoneCataclastic"/>
+	<adms:status xml:lang="en">active</adms:status>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/ChiusellaShearZone">
@@ -5213,6 +5234,7 @@ From its geographical description, the Gallo Fault In HIKE (4615) and Geosphere 
 	<skos:prefLabel xml:lang="en">Synsedimentary Fault</skos:prefLabel>
 	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BallinoFault"/>
 	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/RoteKuhGampelFault"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/HohgantRawilFault"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/ChailluzThrust">
@@ -5418,13 +5440,17 @@ From its geographical description, the Gallo Fault In HIKE (4615) and Geosphere 
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/GiudicarieSouthFault">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<rdfs:isDefinedBy>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</rdfs:isDefinedBy>
+	<rdfs:comment>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</rdfs:comment>
 	<skos:definition xml:lang="en">The Giudicarie (South) Fault is a Miocene brittle fault, which crops out in the Giudicarie and Rendena valleys, north of Lago di Garda. This major fault is a NNE- SSW oriented segment of the Periadriatic Fault System. The Giudicarie (South) Fault is entirely located in the South Alpine.</skos:definition>
+	<skos:scopeNote rdf:resource="https://lexic.swissgeol.ch/TectonicUnits/SouthAlpine"/>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
 	<skos:prefLabel xml:lang="en">Giudicarie South Fault</skos:prefLabel>
 	<skos:prefLabel xml:lang="de">Giudicarie-Südstörung</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Faille méridionale des Giudicarie</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Faglia meridionale delle Giudicarie</skos:prefLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/GiudicarieFault"/>
+	<adms:status xml:lang="en">active</adms:status>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/GiudicarieNorthFault">
@@ -5436,6 +5462,89 @@ From its geographical description, the Gallo Fault In HIKE (4615) and Geosphere 
 	<skos:prefLabel xml:lang="it">Faglia settentrionale delle Giudicarie</skos:prefLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/GiudicarieFault"/>
 	<skos:exactMatch rdf:resource="https://voc.europe-geology.eu/hike/faults/4623"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/ArosioFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<rdfs:isDefinedBy>Arosio (CH-TI): coord. 2713150/1100660</rdfs:isDefinedBy>
+	<skos:definition xml:lang="en">The Arosio Thrust marks the boundary between the Ivrea-Ceneri Complex and the Upper Orobic Nappe.</skos:definition>
+	<skos:scopeNote rdf:resource="https://lexic.swissgeol.ch/TectonicUnits/SouthAlpine"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Arosio Fault</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Arosio-Störung</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Faille d'Arosio</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Faglia di Arosio</skos:prefLabel>
+	<skos:altLabel xml:lang="it">Linea di Arosio</skos:altLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ThrustForward"/>
+	<adms:status xml:lang="en">active</adms:status>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/DucanFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<rdfs:isDefinedBy>Ducan-Massiv resp. Dukantal (CH-GR): coord. 2784570/1175950</rdfs:isDefinedBy>
+	<skos:definition xml:lang="en">within the Sivretta Nappe.</skos:definition>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Ducan Normal Fault</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Ducan-Abschiebung</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Faille normale du Ducan</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Faglia diretta del Ducan</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Detachment"/>
+	<adms:status xml:lang="en">active</adms:status>
+	<dct:source>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</dct:source>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/IllerFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<rdfs:isDefinedBy>oberes Illertal (Deutschland): coord. 2813800/1260610</rdfs:isDefinedBy>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Iller Fault</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Iller-Störung</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Faille de l'Iller</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Faglia dell'Iller</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
+	<adms:status xml:lang="en">active</adms:status>
+	<dct:source>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</dct:source>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/HalblechFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<rdfs:isDefinedBy>Halblech (Deutschland): coord. 2854165/1280825</rdfs:isDefinedBy>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Halblech Fault</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Halblech-Störung</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Faille d'Halblech</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Faglia di Halblech</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
+	<adms:status xml:lang="en">active</adms:status>
+	<dct:source>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</dct:source>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/PorcileFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<rdfs:isDefinedBy>Laghi di Porcile (Italia): coord. 2777140/1103940</rdfs:isDefinedBy>
+	<skos:scopeNote rdf:resource="https://lexic.swissgeol.ch/TectonicUnits/SouthAlpine"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Porcile Line</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Porcile-Linie</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Ligne de Porcile</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Linea di Porcile</skos:prefLabel>
+	<skos:altLabel xml:lang="en">Porcile Fault</skos:altLabel>
+	<skos:altLabel xml:lang="fr">Ligne du Porcile</skos:altLabel>
+	<skos:altLabel xml:lang="it">Linea del Porcile</skos:altLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
+	<adms:status xml:lang="en">active</adms:status>
+	<dct:source>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</dct:source>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/LinnThrust">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:definition xml:lang="en">The Linn Thrust is the frontal N-vergent thrust delimiting the Urgiz Block.</skos:definition>
+	<skos:scopeNote xml:lang="en">swissJura3D</skos:scopeNote>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="de">Linn-Überschiebung</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Linn Thrust</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ThrustForward"/>
+	<adms:status xml:lang="en">active</adms:status>
 </rdf:Description>
 
 </rdf:RDF>
