@@ -174,6 +174,14 @@
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/LesBoisAnticline"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BoveressesAnticline"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/LesCheseauxAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BanneAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BlasenflueAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BlauenAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BlochmontAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BoisDuGeayAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BornEngelbergAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BrameggAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BuebergAnticline"/>
 	<adms:status xml:lang="en">active</adms:status>
 </rdf:Description>
 
@@ -679,6 +687,9 @@
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/AmmerzwilSyncline"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/FeselalpSyncline"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/RaronSyncline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BielSyncline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BremgartenSyncline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BucheggbergSyncline"/>
 	<adms:status xml:lang="en">active</adms:status>
 </rdf:Description>
 
@@ -1122,6 +1133,8 @@
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/IllerFault"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/HalblechFault"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/PorcileFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BaulmesChamblonFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BerlingenFault"/>
 	<adms:status xml:lang="en">active</adms:status>
 </rdf:Description>
 
@@ -1483,13 +1496,15 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 	<skos:prefLabel xml:lang="en">strike-slip fault</skos:prefLabel>
 	<skos:prefLabel xml:lang="de">Transversalstörung</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">faille décrochante</skos:prefLabel>
-	<skos:altLabel xml:lang="fr">décrochement, faille transverse</skos:altLabel>
+	<skos:altLabel xml:lang="fr">décrochement</skos:altLabel>
+	<skos:altLabel xml:lang="fr">faille transverse</skos:altLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/FaultStrikeSlipSinistral"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/FaultStrikeSlipDextral"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BellefontaineFault"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/CaquerelleFault"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MorezFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BonnevauxFault"/>
 	<adms:status xml:lang="en">active</adms:status>
 </rdf:Description>
 
@@ -3407,6 +3422,7 @@ From its geographical description, the Gallo Fault In HIKE (4615) and Geosphere 
 	<skos:prefLabel xml:lang="en">Les Breuleux Thrust</skos:prefLabel>
 	<skos:prefLabel xml:lang="de">Les-Breuleux-Überschiebung</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Chevauchement des Breuleux</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Sovrascorrimento dei Breuleux</skos:prefLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ThrustForward"/>
 	<adms:status xml:lang="en">active</adms:status>
 </rdf:Description>
@@ -3520,8 +3536,13 @@ From its geographical description, the Gallo Fault In HIKE (4615) and Geosphere 
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
 	<skos:prefLabel xml:lang="en">Ausserberg Thrust</skos:prefLabel>
 	<skos:prefLabel xml:lang="de">Ausserberg-Überschiebung</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Chevauchement de l'Ausserberg</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Sovrascorrimento dell'Auserberg</skos:prefLabel>
+	<skos:altLabel xml:lang="de">Ausserberg-Schattenbergüberschiebung</skos:altLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ThrustForward"/>
 	<adms:status xml:lang="en">active</adms:status>
+	<dct:bibliographicCitation>Herold (1997): Räumliche Beziehungen der Karstsysteme zu den tektonischgeologischen Strukturen im Gebiet der Weissenstein- und Farisbergantiklinale (Solothurner Jura). Diss. ETHZ</dct:bibliographicCitation>
+	<dct:isDefinedBy>Ausserberg = Usserberg (CH-SO): coord. 2618150/1237755</dct:isDefinedBy>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/HorneggThrust">
@@ -3779,10 +3800,14 @@ From its geographical description, the Gallo Fault In HIKE (4615) and Geosphere 
 	<skos:definition xml:lang="en">The Bois du Tey Thrust is the frontal thrust of the Mont-Pèlerin Slice (over the Lavaux Slice) in Western Switzerland.</skos:definition>
 	<skos:scopeNote xml:lang="en">Subalpine Molasse</skos:scopeNote>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
-	<skos:prefLabel xml:lang="en">Bois du Tey Slice</skos:prefLabel>
-	<skos:prefLabel xml:lang="de">Bois-du-Tey-Störung</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">Accident du Bois du Tey</skos:prefLabel>
-	<skos:altLabel xml:lang="fr">Faille du Bois du Tey, Chevauchement Broye-Bois de Tey</skos:altLabel>
+	<skos:prefLabel xml:lang="en">Bois du Tey Thrust</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Chevauchement du Bois du Tey</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Sovrascorrimento del Bois du Tey</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Bois-du-Tey-Überschiebung</skos:prefLabel>
+	<skos:altLabel xml:lang="de">Bois-du-Tey-Störung</skos:altLabel>
+	<skos:altLabel xml:lang="fr">Accident du Bois du Tey</skos:altLabel>
+	<skos:altLabel xml:lang="fr">Chevauchement Broye-Bois de Tey</skos:altLabel>
+	<skos:altLabel xml:lang="fr">Faille du Bois du Tey</skos:altLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ThrustForward"/>
 	<adms:status xml:lang="en">active</adms:status>
 </rdf:Description>
@@ -4046,6 +4071,7 @@ From its geographical description, the Gallo Fault In HIKE (4615) and Geosphere 
 	<skos:prefLabel xml:lang="fr">Chevauchement de l'Ajoie</skos:prefLabel>
 	<skos:prefLabel xml:lang="de">Ajoie-Überschiebung</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Sovrascorrimento dell'Ajoie</skos:prefLabel>
+	<skos:altLabel xml:lang="de">Elsgauer Überschiebung</skos:altLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/JuraMainThrust"/>
 	<adms:status xml:lang="en">active</adms:status>
 </rdf:Description>
@@ -4299,7 +4325,8 @@ From its geographical description, the Gallo Fault In HIKE (4615) and Geosphere 
 	<skos:altLabel xml:lang="fr">Faille de Mésinges</skos:altLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/FaultStrikeSlipSinistral"/>
 	<adms:status xml:lang="en">active</adms:status>
-	<dct:bibliographicCitation>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</dct:bibliographicCitation>
+	<dct:bibliographicCitation>Gouffon et al. (2024): Tectonic Map of Switzerland 1:500'000, Explanatory notes. Federal Office of Topography swisstopo</dct:bibliographicCitation>
+	<dct:bibliographicCitation>Dupuy et al. (2014): Analyse structurale de la région lémanique basée sur la sismique réflexion dans le Léman et la géologie des rives nord et sud. Matériaux pour la Carte Géologique de la Suisse 170</dct:bibliographicCitation>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/BretNovelFault">
@@ -5545,6 +5572,196 @@ From its geographical description, the Gallo Fault In HIKE (4615) and Geosphere 
 	<skos:prefLabel xml:lang="en">Linn Thrust</skos:prefLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ThrustForward"/>
 	<adms:status xml:lang="en">active</adms:status>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/BanneAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Banné Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Banné-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal du Banné</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale del Banné</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+	<adms:status xml:lang="en">active</adms:status>
+	<dct:source>https://map.geo.admin.ch/#/map?lang=fr&amp;center=2572470,1250450&amp;z=6&amp;topic=ech&amp;layers=ch.swisstopo.geologie-tektonische_karte&amp;bgLayer=ch.swisstopo.pixelkarte-farbe</dct:source>
+	<dct:isDefinedBy>Le Banné (CH-JU): coord. 2572470/1250450</dct:isDefinedBy>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/BaulmesChamblonFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Baulmes-Chamblon Fault Zone</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Baulmes-Chamblon-Störungszone</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Zone de failles de Baulmes-Chamblon</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Zona di faglie di Baulmes-Chamblon</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
+	<adms:status xml:lang="en">active</adms:status>
+	<dct:source>https://map.geo.admin.ch/#/map?lang=fr&amp;center=2536125,1181625&amp;z=6&amp;topic=ech&amp;layers=ch.swisstopo.geologie-tektonische_karte&amp;bgLayer=ch.swisstopo.pixelkarte-farbe</dct:source>
+	<dct:isDefinedBy>Baulmes (CH-VD): coord. 2529840/1182840</dct:isDefinedBy>
+	<dct:isDefinedBy>Chamblon (CH-VD): coord. 2536125/1181625</dct:isDefinedBy>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/BerlingenFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Berlingen Fault</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Berlingen-Störung</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Faille de Berlingen</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Faglia di Berlingen</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
+	<adms:status xml:lang="en">active</adms:status>
+	<dct:source>https://map.geo.admin.ch/#/map?lang=fr&amp;center=2722810,1278960&amp;z=6&amp;topic=ech&amp;layers=ch.swisstopo.geologie-tektonische_karte&amp;bgLayer=ch.swisstopo.pixelkarte-farbe</dct:source>
+	<dct:isDefinedBy>Berlingen (CH-JU): coord. 2718265/1281375</dct:isDefinedBy>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/BielSyncline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Biel Syncline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Biel-Synklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Synclinal de Bienne</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Sinclinale di Bienne</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Syncline"/>
+	<adms:status xml:lang="en">active</adms:status>
+	<dct:source>https://map.geo.admin.ch/#/map?lang=fr&amp;center=2589630,1221940&amp;z=6&amp;topic=ech&amp;layers=ch.swisstopo.geologie-tektonische_karte&amp;bgLayer=ch.swisstopo.pixelkarte-farbe</dct:source>
+	<dct:isDefinedBy>Biel = Bienne (CH-BE): coord. 2587105/1220260</dct:isDefinedBy>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/BlasenflueAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Blasenflue Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Blasenflue-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal de la Blasenflue</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale della Blasenflue</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+	<adms:status xml:lang="en">active</adms:status>
+	<dct:source>https://map.geo.admin.ch/#/map?lang=fr&amp;center=2618630,1197025&amp;z=6&amp;topic=ech&amp;layers=ch.swisstopo.geologie-tektonische_karte&amp;bgLayer=ch.swisstopo.pixelkarte-farbe</dct:source>
+	<dct:isDefinedBy>Blasenflue (CH-BE): coord. 2619610/1197915</dct:isDefinedBy>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/BlauenAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Blauen Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Blauen-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal du Blauen</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale del Blauen</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+	<adms:status xml:lang="en">active</adms:status>
+	<dct:source>https://map.geo.admin.ch/#/map?lang=fr&amp;center=2601320,1255755&amp;z=6&amp;topic=ech&amp;layers=ch.swisstopo.geologie-tektonische_karte&amp;bgLayer=ch.swisstopo.pixelkarte-farbe</dct:source>
+	<dct:isDefinedBy>Blaueberg / Blauepass (CH-BL): coord. 2605735/1256625</dct:isDefinedBy>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/BlochmontAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Blochmont Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Blochmont-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal du Blochmont</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale del Blochmont</skos:prefLabel>
+	<skos:altLabel xml:lang="de">Glaserberg-Antiklinale</skos:altLabel>
+	<skos:altLabel xml:lang="en">Glaserberg Anticline</skos:altLabel>
+	<skos:altLabel xml:lang="fr">Anticlinal du Glaserberg</skos:altLabel>
+	<skos:altLabel xml:lang="it">Anticlinale del Glaserberg</skos:altLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+	<adms:status xml:lang="en">active</adms:status>
+	<dct:source>https://map.geo.admin.ch/#/map?lang=fr&amp;center=2592430,1255830&amp;z=6&amp;topic=ech&amp;layers=ch.swisstopo.geologie-tektonische_karte&amp;bgLayer=ch.swisstopo.pixelkarte-farbe</dct:source>
+	<skos:scope>Sundgau</skos:scope>
+	<dct:isDefinedBy>Glaserberg (France-68): coord. 2588140/1255680</dct:isDefinedBy>
+	<dct:isDefinedBy>Col du Blochmont (France-68): coord. 2593020/1255530</dct:isDefinedBy>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/BoisDuGeayAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Bois du Geay Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Bois-du-Geay-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal du Bois du Geay</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale del Bois du Geay</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+	<adms:status xml:lang="en">active</adms:status>
+	<dct:source>https://map.geo.admin.ch/#/map?lang=fr&amp;center=2540650,1214225&amp;z=6&amp;topic=ech&amp;layers=ch.swisstopo.geologie-tektonische_karte&amp;bgLayer=ch.swisstopo.pixelkarte-farbe</dct:source>
+	<dct:isDefinedBy>Bois du Geay (France-25): coord. 2539020/1211725</dct:isDefinedBy>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/BornEngelbergAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Born-Engelberg Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Born-Engelberg-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal du Born-Engelberg</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale del Born-Engelberg</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+	<adms:status xml:lang="en">active</adms:status>
+	<dct:source>https://map.geo.admin.ch/#/map?lang=fr&amp;center=2636325,1242555&amp;z=6&amp;topic=ech&amp;layers=ch.swisstopo.geologie-tektonische_karte&amp;bgLayer=ch.swisstopo.pixelkarte-farbe</dct:source>
+	<dct:isDefinedBy>Born (CH-SO): coord. 2633610/1241395</dct:isDefinedBy>
+	<dct:isDefinedBy>Engelberg (CH-SO): coord. 2638550/1242830</dct:isDefinedBy>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/BrameggAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Bramegg Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Bramegg-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal de la Bramegg</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale della Bramegg</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+	<adms:status xml:lang="en">active</adms:status>
+	<dct:source>https://map.geo.admin.ch/#/map?lang=fr&amp;center=2653200,1210375&amp;z=6&amp;topic=ech&amp;layers=ch.swisstopo.geologie-tektonische_karte&amp;bgLayer=ch.swisstopo.pixelkarte-farbe</dct:source>
+	<dct:isDefinedBy>Bramegg (CH-LU): coord. 2650010/1207915</dct:isDefinedBy>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/BremgartenSyncline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Bremgarten Syncline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Bremgarten-Synklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Synclinal de Bremgarten</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Sinclinale di Bremgarten</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Syncline"/>
+	<adms:status xml:lang="en">active</adms:status>
+	<dct:source>https://map.geo.admin.ch/#/map?lang=fr&amp;center=2657070,1214185&amp;z=6&amp;topic=ech&amp;layers=ch.swisstopo.geologie-tektonische_karte&amp;bgLayer=ch.swisstopo.pixelkarte-farbe</dct:source>
+	<dct:isDefinedBy>Bremgarten (CH-LU): coord. 2657860/1214290</dct:isDefinedBy>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/BucheggbergSyncline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Bucheggberg Syncline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Bucheggberg-Synklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Synclinal du Bucheggberg</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Sinclinale del Bucheggberg</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Syncline"/>
+	<adms:status xml:lang="en">active</adms:status>
+	<dct:source>https://map.geo.admin.ch/#/map?lang=fr&amp;center=2600515,1218770&amp;z=6&amp;topic=ech&amp;layers=ch.swisstopo.geologie-tektonische_karte&amp;bgLayer=ch.swisstopo.pixelkarte-farbe</dct:source>
+	<dct:isDefinedBy>Bucheggberg (CH-SO): coord. 2603775/1220500</dct:isDefinedBy>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/BuebergAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Bueberg Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Bueberg-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal du Bueberg</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale del Bueberg</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+	<adms:status xml:lang="en">active</adms:status>
+	<dct:source>https://map.geo.admin.ch/#/map?lang=fr&amp;center=2596170,1251830&amp;z=6&amp;topic=ech&amp;layers=ch.swisstopo.geologie-tektonische_karte&amp;bgLayer=ch.swisstopo.pixelkarte-farbe</dct:source>
+	<dct:isDefinedBy>Bueberg (CH-BL): coord. 2602115/1250870</dct:isDefinedBy>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/BonnevauxFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Bonnevaux Fault</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Bonnevaux-Störung</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Décrochement de Bonnevaux</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Faglia di Bonnevaux</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/FaultStrikeSlip"/>
+	<adms:status xml:lang="en">active</adms:status>
+	<dct:source>https://map.geo.admin.ch/#/map?lang=fr&amp;center=2541650,1129820&amp;z=5&amp;topic=ech&amp;layers=ch.swisstopo.geologie-tektonische_karte&amp;bgLayer=ch.swisstopo.pixelkarte-farbe</dct:source>
+	<dct:isDefinedBy>Bonnevaux (FR-74): coord. 2540725/1127650</dct:isDefinedBy>
 </rdf:Description>
 
 </rdf:RDF>
