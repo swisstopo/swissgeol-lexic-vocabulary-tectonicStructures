@@ -182,6 +182,11 @@
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BornEngelbergAnticline"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BrameggAnticline"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BuebergAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/CedegoloAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ChapfAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ChasseralAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ChurzenbergAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ClairmontAnticline"/>
 	<adms:status xml:lang="en">active</adms:status>
 </rdf:Description>
 
@@ -690,6 +695,43 @@
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BielSyncline"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BremgartenSyncline"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BucheggbergSyncline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ChampagnoleSyncline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ColombierSyncline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/CombremontsSyncline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/CronaySyncline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/DiessbachSyncline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/EchallensSyncline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/EpautheyresSyncline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/FarnbueelSyncline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ForelSyncline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/FribourgSyncline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/FriquesSyncline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/GaeuSyncline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/GrangesPaullySyncline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/GrossholzSyncline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/GuenikonSyncline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/HauchenbergSyncline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/JolimontSyncline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/KyburgSyncline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/LaupenSyncline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/LausanneSyncline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/LerchenbergSyncline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/LevierSyncline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MoudonVillarzelOleyresSyncline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MurnauSyncline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/QuingeySyncline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/RamseiSyncline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/RoggwilSyncline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/SteinebergSyncline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/UetlibergKollbrunnSyncline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/VenogeSyncline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/VillarlodSyncline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/WaedenswilSchnebelhornSyncline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/WettingenSyncline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/WolfswilSyncline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/SchwybergSyncline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/GruyereSyncline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MolesonSyncline"/>
 	<adms:status xml:lang="en">active</adms:status>
 </rdf:Description>
 
@@ -1135,6 +1177,11 @@
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/PorcileFault"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BaulmesChamblonFault"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BerlingenFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ChaumontFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ChezNicodFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ComtesseFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ClusoneFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ZeiningenFault"/>
 	<adms:status xml:lang="en">active</adms:status>
 </rdf:Description>
 
@@ -2825,6 +2872,7 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BolettoneThrust"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/SamoensMontBuetThrust"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ValtortaValcanaleThrust"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ChaumenyThrust"/>
 	<adms:status xml:lang="en">active</adms:status>
 </rdf:Description>
 
@@ -5259,6 +5307,7 @@ From its geographical description, the Gallo Fault In HIKE (4615) and Geosphere 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/FaultSynsedimentary">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Collection"/>
 	<skos:prefLabel xml:lang="en">Synsedimentary Fault</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">failles synsédimentaires</skos:prefLabel>
 	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BallinoFault"/>
 	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/RoteKuhGampelFault"/>
 	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/HohgantRawilFault"/>
@@ -5762,6 +5811,742 @@ From its geographical description, the Gallo Fault In HIKE (4615) and Geosphere 
 	<adms:status xml:lang="en">active</adms:status>
 	<dct:source>https://map.geo.admin.ch/#/map?lang=fr&amp;center=2541650,1129820&amp;z=5&amp;topic=ech&amp;layers=ch.swisstopo.geologie-tektonische_karte&amp;bgLayer=ch.swisstopo.pixelkarte-farbe</dct:source>
 	<dct:isDefinedBy>Bonnevaux (FR-74): coord. 2540725/1127650</dct:isDefinedBy>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/CedegoloAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Cedegolo Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Cedegolo-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal de Cedegolo</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale di Cedegolo</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+	<adms:status xml:lang="en">active</adms:status>
+	<dct:source>https://map.geo.admin.ch/#/map?lang=fr&amp;center=2818415,1105020&amp;z=4&amp;topic=ech&amp;layers=ch.swisstopo.geologie-tektonische_karte&amp;bgLayer=ch.swisstopo.pixelkarte-farbe</dct:source>
+	<skos:scope rdf:resource="https://lexic.swissgeol.ch/TectonicUnits/SouthAlpine"/>
+	<dct:isDefinedBy>Cedegolo (Italia): coord. 2825060/1107255</dct:isDefinedBy>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/ChampagnoleSyncline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Champagnole Syncline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Champagnole-Synklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Synclinal de Champagnole</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Sinclinale di Champagnole</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Syncline"/>
+	<adms:status xml:lang="en">active</adms:status>
+	<dct:source>https://map.geo.admin.ch/#/map?lang=fr&amp;center=2485235,1185300&amp;z=4&amp;topic=ech&amp;layers=ch.swisstopo.geologie-tektonische_karte&amp;bgLayer=ch.swisstopo.pixelkarte-farbe</dct:source>
+	<dct:isDefinedBy>Champagnole (France-01): coord. 2482960/1178475</dct:isDefinedBy>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/ChapfAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Chapf Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Chapf-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal du Chapf</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale del Chapf</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+	<adms:status xml:lang="en">active</adms:status>
+	<dct:source>https://map.geo.admin.ch/#/map?lang=fr&amp;center=2579890,1217570&amp;z=6&amp;topic=ech&amp;layers=ch.swisstopo.geologie-tektonische_karte&amp;bgLayer=ch.swisstopo.pixelkarte-farbe</dct:source>
+	<dct:isDefinedBy>Chapf (CH-BE): coord. 2579025/1216395</dct:isDefinedBy>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/ChasseralAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Chasseral Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Chasseral-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal du Chasseral</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale del Chasseral</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+	<adms:status xml:lang="en">active</adms:status>
+	<dct:source>https://map.geo.admin.ch/#/map?lang=fr&amp;center=2572815,1221440&amp;z=4&amp;topic=ech&amp;layers=ch.swisstopo.geologie-tektonische_karte&amp;bgLayer=ch.swisstopo.pixelkarte-farbe</dct:source>
+	<dct:isDefinedBy>Chasseral (CH-BE): coord. 2571290/1220310</dct:isDefinedBy>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/ChaumenyThrust">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Chaumény Thrust</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Chaumény-Überschiebung</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Chevauchement de la Chaumény</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Sovrascorrimento della Chaumény</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Thrust"/>
+	<adms:status xml:lang="en">active</adms:status>
+	<dct:source>https://map.geo.admin.ch/#/map?lang=fr&amp;center=2553590,1136475&amp;z=6&amp;topic=ech&amp;layers=ch.swisstopo.geologie-tektonische_karte&amp;bgLayer=ch.swisstopo.pixelkarte-farbe</dct:source>
+	<dct:isDefinedBy>La Chaumény (CH-VS): coord. 2553590/1136475</dct:isDefinedBy>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/ChaumontFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Chaumont Fault</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Chaumont-Störung</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Faille de Chaumont</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Faglia di Chaumont</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
+	<adms:status xml:lang="en">active</adms:status>
+	<dct:source>https://map.geo.admin.ch/#/map?lang=fr&amp;center=2480450,1138440&amp;z=6&amp;topic=ech&amp;layers=ch.swisstopo.geologie-tektonische_karte&amp;bgLayer=ch.swisstopo.pixelkarte-farbe</dct:source>
+	<dct:isDefinedBy>Chaumont (France-39): coord. 2480450/1138440</dct:isDefinedBy>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/ChezNicodFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Chez Nicod Fault</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Chez-Nicod-Störung</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Faille de Chez Nicod</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Faglia di Chez Nicod</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
+	<adms:status xml:lang="en">active</adms:status>
+	<dct:source>https://map.geo.admin.ch/#/map?lang=fr&amp;center=2576860,1228785&amp;z=6&amp;topic=ech&amp;layers=ch.swisstopo.geologie-tektonische_karte&amp;bgLayer=ch.swisstopo.pixelkarte-farbe</dct:source>
+	<dct:isDefinedBy>Chez Nicod (CH-BE): coord. 2576895/1229070</dct:isDefinedBy>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/ChurzenbergAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Churzenberg Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Churzenberg-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal du Churzenberg</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale del Churzenberg</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+	<adms:status xml:lang="en">active</adms:status>
+	<dct:source>https://map.geo.admin.ch/#/map?lang=fr&amp;center=2618240,1189525&amp;z=6&amp;topic=ech&amp;layers=ch.swisstopo.geologie-tektonische_karte&amp;bgLayer=ch.swisstopo.pixelkarte-farbe</dct:source>
+	<dct:isDefinedBy>Churzenberg (CH-BE): coord. 2617655/1189885</dct:isDefinedBy>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/collJuraFolds">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Collection"/>
+	<skos:prefLabel xml:lang="de">Falten des Juragebirges</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">plis du Jura</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">folds of the Jura Mountains</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">pieghe del Giura</skos:prefLabel>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/AdlerhofAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/LaegernAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/FerretteAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/LandskronAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/SpruesselAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MontTerriAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/LomontAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ClervalAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MusiegeAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/SaleveAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BelCosterAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BellecombeAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ChaumontAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/CretDeLaNeigeAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/FournetBlancherocheAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/FuesseAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/GrandCalirouAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/GrandCombeDesBoisAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BarilletteAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ChauxDAbelAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/LaDoleAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/JougnenaAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MontagneDeBoudryAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/RocheDOrAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/LaTanneAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/VieilleVacherieAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MalpasAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MorezAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MovelierAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/PouillerelAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/SolmontAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TiergartenAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TrevillersAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/VelleratAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/EntreDeuxMontsAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/EpiquerezAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ArcetsAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/LesBoisAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BoveressesAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/LesCheseauxAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BanneAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BlauenAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BlochmontAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BoisDuGeayAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BornEngelbergAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BuebergAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ChampagnoleSyncline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ChapfAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ChasseralAnticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/collJuraFaults">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Collection"/>
+	<skos:prefLabel xml:lang="en">faults of the Jura Mountains</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Störungen des Juragebirges</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">accidents tectonique du Jura</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/collHelveticFolds">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Collection"/>
+	<skos:prefLabel xml:lang="en">folds of the Helvetic domain</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">plis du domaine Helvétique</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">pieghe del dominio Elvetico</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Falten der Helvetischen Domäne</skos:prefLabel>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ChamonixSyncline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/FeselalpSyncline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/RaronSyncline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/collMolasseFolds">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Collection"/>
+	<skos:prefLabel xml:lang="en">folds of the Molasse region</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">plis de la région molassique</skos:prefLabel>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ChambesyAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ChoullyAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MontVullySyncline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BernexSyncline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/AelsnauFold"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/AlbligenBelpbergSyncline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/AlterswilAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/AltishofenSyncline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/AmmerzwilSyncline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ChapelleAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/CheiryAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/CorsereyCourtionAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/CuarnyAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MesseryYvoireAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MontbrellozDelleyAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MorgesAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MoerigenAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/PayerneAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/StSulpiceAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TatrozAttalensAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/EchallensAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BielSyncline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BlasenflueAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BrameggAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BremgartenSyncline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BucheggbergSyncline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ChurzenbergAnticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/collAustroalpineFolds">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Collection"/>
+	<skos:prefLabel xml:lang="en">folds of the Austroalpine domain</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Falten der Ostalpinen Domäne</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">plis du domaine Austroalpin</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">pieghe del dominio Austroalpino</skos:prefLabel>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/LandwasserSyncline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/DucanSyncline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/collPenninicFolds">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Collection"/>
+	<skos:prefLabel xml:lang="en">folds of the Penninic domain</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Falten der Penninischen Domäne</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">plis du domaine Pennique</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">pieghe del dominio Pennidico</skos:prefLabel>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/StNiklausSyncline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MontsetSyncline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MischabelFold"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/NiemetBeverinFold"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/collSouthalpineFolds">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Collection"/>
+	<skos:prefLabel xml:lang="en">folds of the South Alpine domain</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Falten der Südalpinen Domäne</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">plis du domaine Sudalpin</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">pieghe del dominio Sudalpino</skos:prefLabel>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ArbostoraAnticline"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/CedegoloAnticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/collSouthalpineFaults">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Collection"/>
+	<skos:prefLabel xml:lang="en">faults of the South Alpine domain</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Störungen der Südalpinen Domäne</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">faglie del dominio Sudalpino</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">accidents tectoniques du domaine Sudalpin</skos:prefLabel>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/PeriadriaticFault"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MontaltoDoraFault"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/LeccoFault"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/LagoMaggioreFault"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/CossatoMergozzoBrissagoFault"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/CremosinaFault"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ValCollaFault"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MarzioFault"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BallinoFault"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/SabionFault"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/InsubricFault"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/GiudicarieFault"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/CanaveseFault"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TonaleFault"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/LuganoMonteGronaValGrandeFault"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MonteGronaFault"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ValGrandeFault"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/PogalloFault"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ValTrompiaThrust"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TamaroThrust"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/VillafortunaThrust"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/GallineraThrust"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MonteOlimpinoThrust"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BolettoneThrust"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ValtortaValcanaleThrust"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/PedealpineThrust"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ArosioFault"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/PorcileFault"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/collAustroalpineFaults">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Collection"/>
+	<skos:prefLabel xml:lang="en">faults of the Austroalpine domain</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Störungen der Ostalpinen Domäne</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">accidents tectoniques du domaine Austroalpin</skos:prefLabel>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/GalloFault"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MortiroloFault"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/PejoFault"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MezzaunFault"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/EngadineFault"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ZebruThrust"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TrupchunBraulioThrust"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/SchlinigThrust"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/DucanFault"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/collHelveticFaults">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Collection"/>
+	<skos:prefLabel xml:lang="en">faults of the Helvetic domain</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Störungen der Helvetischen Domäne</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">accidents tectonique du domaine Helvétique</skos:prefLabel>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/SaxSchwendeFault"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BachliGiesenenFault"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/GlarusThrust"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/AxenThrust"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/DiableretsThrust"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/WildhornThrust"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/DrusbergThrust"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/SaentisThrust"/>
+	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/SamoensMontBuetThrust"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/ColombierSyncline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Colombier Syncline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Colombier-Synklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Synclinal de Colombier</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Sinclinale di Colombier</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Syncline"/>
+	<adms:status xml:lang="en">active</adms:status>
+	<dct:source>https://map.geo.admin.ch/#/map?lang=fr&amp;center=2524230,1157055&amp;z=5&amp;topic=ech&amp;layers=ch.swisstopo.geologie-tektonische_karte&amp;bgLayer=ch.swisstopo.pixelkarte-farbe</dct:source>
+	<dct:isDefinedBy>Colombier (CH-VD): coord. 2526000/1156555</dct:isDefinedBy>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/CombremontsSyncline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Combremonts Syncline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Combremonts-Synklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Synclinal des Combremonts</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Sinclinale dei Combremonts</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Syncline"/>
+	<adms:status xml:lang="en">active</adms:status>
+	<dct:source>https://map.geo.admin.ch/#/map?lang=fr&amp;center=2549000,1176210&amp;z=6&amp;topic=ech&amp;layers=ch.swisstopo.geologie-tektonische_karte&amp;bgLayer=ch.swisstopo.pixelkarte-farbe</dct:source>
+	<dct:isDefinedBy>Combremont-le-Petit (CH-VD): coord. 2551890/1177785</dct:isDefinedBy>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/ComtesseFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Comtesse Fault</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Comtesse-Störung</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Faille de la Comtesse</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Faglia della Comtesse</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
+	<adms:status xml:lang="en">active</adms:status>
+	<dct:source>https://map.geo.admin.ch/#/map?lang=fr&amp;center=2581960,1220430&amp;z=6&amp;topic=ech&amp;layers=ch.swisstopo.geologie-tektonische_karte&amp;bgLayer=ch.swisstopo.pixelkarte-farbe</dct:source>
+	<dct:isDefinedBy>La Comtesse (CH-BE): coord. 2581960/1220430</dct:isDefinedBy>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/CronaySyncline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Cronay Syncline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Cronay-Synklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Synclinal de Cronay</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Sinclinale di Cronay</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Syncline"/>
+	<adms:status xml:lang="en">active</adms:status>
+	<dct:source>https://map.geo.admin.ch/#/map?lang=fr&amp;center=2548740,1181410&amp;z=6&amp;topic=ech&amp;layers=ch.swisstopo.geologie-tektonische_karte&amp;bgLayer=ch.swisstopo.pixelkarte-farbe</dct:source>
+	<dct:isDefinedBy>Cronay (CH-VD): coord. 2543250/1178680</dct:isDefinedBy>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/ClairmontAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="fr">Anticlinal du Clairmont</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale del Clairmont</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Clairmont Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Clairmont-Antiklinale</skos:prefLabel>
+	<skos:hiddenLabel xml:lang="en">Clarmont Anticline</skos:hiddenLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+	<adms:status xml:lang="en">active</adms:status>
+	<dct:source>https://map.geo.admin.ch/#/map?lang=fr&amp;center=2577425,1246155&amp;z=6&amp;topic=ech&amp;layers=ch.swisstopo.geologie-tektonische_karte&amp;bgLayer=ch.swisstopo.pixelkarte-farbe</dct:source>
+	<dct:isDefinedBy>Clairmont (CH-JU): coord. 2576395/1246070</dct:isDefinedBy>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/ClusoneFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Clusone Fault</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Clusone-Störung</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Faille de Clusone</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Faglia di Clusone</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
+	<adms:status xml:lang="en">active</adms:status>
+	<dct:source>https://map.geo.admin.ch/#/map?lang=fr&amp;center=2794445,1085870&amp;z=4&amp;topic=ech&amp;layers=ch.swisstopo.geologie-tektonische_karte&amp;bgLayer=ch.swisstopo.pixelkarte-farbe</dct:source>
+	<dct:isDefinedBy>Clusone (Italia): coord. 2794500/1085150</dct:isDefinedBy>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/ZeiningenFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Zeiningen Fault Zone</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Zeiningen-Störungszone</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Zone de failles de Zeiningen</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Zona di faglie di Zeiningen</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/DiessbachSyncline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Diessbach Syncline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Diessbach-Synklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Synclinal de Diessbach</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Sinclinale di Diessbach</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Syncline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/EchallensSyncline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Echallens Syncline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Echallens-Synklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Synclinal d'Echallens</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Sinclinale di Echallens</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Syncline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/EpautheyresSyncline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Epautheyres Syncline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Epautheyres-Synklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Synclinal d'Epautheyres</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Sinclinale di Epautheyres</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Syncline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/FarnbueelSyncline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Farnbüel Syncline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Farnbüel-Synklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Sinclinale di Farnbüel</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Synclinal de Farnbüel</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Syncline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/ForelSyncline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Forel Syncline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Forel-synklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Synclinal de Forel</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Sinclinale di Forel</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Syncline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/FribourgSyncline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Fribourg Syncline</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Synclinal de Fribourg</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Sinclinale di Fribourg</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Freiburg-Synklinale</skos:prefLabel>
+	<skos:altLabel xml:lang="de">Fribourg-Synklinale</skos:altLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Syncline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/FriquesSyncline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Friques Syncline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Friques-Synklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Synclinal des Friques</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Sinclinale dei Friques</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Syncline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/GaeuSyncline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Gäu Syncline</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Sinclinale di Gäu</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Synclinal de Gäu</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Gäu-Synklinale</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Syncline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/GrangesPaullySyncline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Granges-Paully Syncline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Granges-Paully-Synklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Synclinal de Granges-Paully</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Sinclinale di Granges-Paully</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Syncline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/GrossholzSyncline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Grossholz Syncline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Grossholz-Synklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Synclinal du Grossholz</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Sinclinale del Grossholz</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Syncline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/GuenikonSyncline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Günikon Syncline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Günikon-Synklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Synclinal de Günikon</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Sinclinale di Günikon</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Syncline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/HauchenbergSyncline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Hauchenberg Syncline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Hauchenberg-Synklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Synclinal du Hauchenberg</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Sinclinale del Hauchenberg</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Syncline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/JolimontSyncline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Jolimont Syncline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Jolimont-Synklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Synclinal du Jolimont</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Sinclinale del Jolimont</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Syncline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/KyburgSyncline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Kyburg Syncline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Kyburg-Synklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Synclinal de Kyburg</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Sinclinale di Kyburg</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Syncline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/LaupenSyncline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Laupen Syncline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Laupen-Synklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Synclinal de Laupen</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Sinclinale di Laupen</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Syncline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/LausanneSyncline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Lausanne Syncline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Lausanne-Synklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Synclinal de Lausanne</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Sinclinale di Lausanne</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Syncline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/LerchenbergSyncline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Lerchenberg Syncline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Lerchenberg-Synklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Synclinal du Lerchenberg</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Sinclinale del Lerchenberg</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Syncline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/LevierSyncline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Levier Syncline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Levier-Synklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Synclinal de Levier</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Sinclinale di Levier</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Syncline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/MoudonVillarzelOleyresSyncline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Moudon-Villarzel-Oleyres Syncline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Moudon-Villarzel-Oleyres-Synklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Synclinal de Moudon-Villarzel-Oleyres</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Sinclinale di Moudon-Villarzel-Oleyres</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Syncline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/MurnauSyncline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Murnau Syncline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Murnau-Synklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Synclinal de Murnau</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Sinclinale di Murnau</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Syncline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/QuingeySyncline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Quingey Syncline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Quingey-Synklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Synclinal de Quingey</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Sinclinale di Quingey</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Syncline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/RamseiSyncline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Ramsei Syncline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Ramsei-Synklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Synclinal de Ramsei</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Sinclinale di Ramsei</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Syncline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/RoggwilSyncline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Roggwil Syncline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Roggwil-Synklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Synclinal de Roggwil</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Sinclinale di Roggwil</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Syncline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/SteinebergSyncline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Steineberg Syncline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Steineberg-Synklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Synclinal du Steineberg</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Sinclinale dello Steineberg</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Syncline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/UetlibergKollbrunnSyncline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Uetliberg-Kollbrunn Syncline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Uetliberg-Kollbrunn-Synklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Synclinal de l'Uetliberg-Kollbrunn</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Sinclinale dell'Uetliberg-Kollbrunn</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Syncline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/VenogeSyncline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Venoge Syncline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Venoge-Synklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Synclinal de la Venoge</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Sinclinale della Venoge</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Syncline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/VillarlodSyncline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Villarlod Syncline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Villarlod-Synklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Synclinal de Villarlod</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Sinclinale di Villarlod</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Syncline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/WaedenswilSchnebelhornSyncline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Wädenswil-Schnebelhorn Syncline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Wädenswil-Schnebelhorn-Synklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Synclinal de Wädenswil-Schnebelhorn</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Sinclinale di Wädenswil-Schnebelhorn</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Syncline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/WettingenSyncline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Wettingen Syncline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Wettingen-Synklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Synclinal de Wettingen</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Sinclinale di Wettingen</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Syncline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/WolfswilSyncline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Wolfswil Syncline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Wolfswil-Synklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Synclinal de Wolfswil</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Sinclinale di Wolfswil</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Syncline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/SchwybergSyncline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Schwyberg Syncline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Schwyberg-Synklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Synclinal du Schwyberg</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Sinclinale dello Schwyberg</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Syncline"/>
+	<skos:scope>Gurnigel</skos:scope>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/GruyereSyncline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Gruyère Syncline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Gruyère-Synklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Synclinal de la Gruyère</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Sinclinale della Gruyère</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Syncline"/>
+	<skos:scope>Préalpes Médianes</skos:scope>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/MolesonSyncline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Moléson Syncline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Moléson-Synklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Synclinal du Moléson</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Sinclinale del Moléson</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Syncline"/>
+	<skos:scope>Préalpes Médianes</skos:scope>
 </rdf:Description>
 
 </rdf:RDF>
