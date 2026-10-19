@@ -55,6 +55,8 @@
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fold"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/SynclineOverturned"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/VanzoneFold"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/PassDUrFold"/>
 	<adms:status xml:lang="en">active</adms:status>
 </rdf:Description>
 
@@ -186,7 +188,68 @@
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ChapfAnticline"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ChasseralAnticline"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ChurzenbergAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MormontAnticline"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ClairmontAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/DevelierAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/DurachAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/EichiBiberentalAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/EssertinesChenePaquierAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/FalkenfluhAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/FarisbergAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/FendringenNiederriedAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/GerholzAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/GipouAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/GraiteryAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/GrandSomMartelAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/GugenAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/HagendornAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/HenniezAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/HuttwilAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/KoellikenAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/WisigAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/WohlenAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/WynauAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/WachseldornBalmeggAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/WartenseeAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/WeissensteinAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ViquesAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/VorbourgAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TannenbergAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TrabucelloAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TschuggAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/SiggenthalAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/StVerenaAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/SubingenAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/SchwarzenburgAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/LakeAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/RaimeuxAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/RiggisbergAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/RoseletAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/RossetMontTendreAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/LacDeMoronAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/LangenthalAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/LaveronAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/LeutschenbergAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/LindenbergKaepfnachRotenAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MenznauAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MessenAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MontCrosinAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MontDAminAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MontJaquesAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MontNoirAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MontRacineAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MontSujetAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MontRisouxAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MontozAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MoronAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/NennigkofenAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/NeuenhofAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/NierletAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/NoirmontAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/OrobicAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/PasswangAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/PlacesAnticline"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/PontinsAnticline"/>
 	<adms:status xml:lang="en">active</adms:status>
 </rdf:Description>
 
@@ -1182,6 +1245,42 @@
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ComtesseFault"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ClusoneFault"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ZeiningenFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/EggbergFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/EssertinesFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/GoleLargheFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MindelseeFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/SchluchseeBirkendorfFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TourneFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/WehratalFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/WutachFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/EglisauFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/WischbergFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/GazzirolaFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/GrimmFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/HautCretMassacreFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/IsornoFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/KarsauFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/KilchbuehlFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/KreuzlingenFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/LezatFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MannenbachFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MenthuePrahinsFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MionneGrenetFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MistbuehlFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MurettoFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MussoFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/OrobicFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ParimbotFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/PorteDesEnfersFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/PresDeCortebertFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ReticoFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/RhineValleyFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/SeegFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/SulzschneidFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TessereteGronaFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TresaFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/UnterseeFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/VorwaldFault"/>
 	<adms:status xml:lang="en">active</adms:status>
 </rdf:Description>
 
@@ -1258,7 +1357,6 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/RandenFault"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/SchienerBergFault"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BachliGiesenenFault"/>
-	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/PejoFault"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/LuganoMonteGronaValGrandeFault"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Detachment"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/SimplonFault"/>
@@ -1304,6 +1402,7 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 	<skos:prefLabel xml:lang="en">Sax-Schwende Fault</skos:prefLabel>
 	<skos:prefLabel xml:lang="de">Sax-Schwende-Störung</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Faglia Sax-Schwende</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Faille de Sax-Schwende</skos:prefLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
 	<adms:status xml:lang="en">active</adms:status>
 </rdf:Description>
@@ -1552,6 +1651,7 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/CaquerelleFault"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MorezFault"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BonnevauxFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/PeitingFault"/>
 	<adms:status xml:lang="en">active</adms:status>
 </rdf:Description>
 
@@ -2018,7 +2118,7 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 	<skos:altLabel xml:lang="en">Pejo Fault</skos:altLabel>
 	<skos:altLabel xml:lang="de">Pejo-Störung</skos:altLabel>
 	<skos:altLabel xml:lang="de">Peio-Linie</skos:altLabel>
-	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/FaultNormal"/>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Detachment"/>
 	<adms:status xml:lang="en">active</adms:status>
 </rdf:Description>
 
@@ -2050,9 +2150,12 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 	<skos:prefLabel xml:lang="fr">détachement</skos:prefLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/FaultNormal"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MortiroloFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/PejoFault"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MezzaunFault"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/PogalloFault"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/DucanFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/RheinfeldenFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MaulburgFault"/>
 	<adms:status xml:lang="en">active</adms:status>
 </rdf:Description>
 
@@ -2329,6 +2432,7 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/LugrinMontBenantFault"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/MaxillyChevenozFault"/>
 	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TrossyDransePublierFault"/>
+	<skos:narrower rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/VuarneGlandFault"/>
 	<adms:status xml:lang="en">active</adms:status>
 </rdf:Description>
 
@@ -2562,6 +2666,10 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 	<skos:prefLabel xml:lang="de">St-Cergue-Störung</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Zone de failles de St-Cergue</skos:prefLabel>
 	<skos:prefLabel xml:lang="it">Faglia di St-Cergue</skos:prefLabel>
+	<skos:altLabel xml:lang="de">St-Cergue-Luins-Blattverschiebung</skos:altLabel>
+	<skos:altLabel xml:lang="en">St-Cergue-Luins Strike-slip Fault</skos:altLabel>
+	<skos:altLabel xml:lang="fr">Décrochement de St-Cergue-Luins</skos:altLabel>
+	<skos:altLabel xml:lang="it">Faglia trascorrente di St-Cergue-Luins</skos:altLabel>
 	<skos:hiddenLabel xml:lang="en">St-Cergues Fault Zone</skos:hiddenLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/FaultStrikeSlipDextral"/>
 	<adms:status xml:lang="en">active</adms:status>
@@ -2734,6 +2842,7 @@ In the area of the Tectonic Map of Switzerland, the Periadriatic Fault System is
 	<skos:prefLabel xml:lang="en">Mezzaun Fault</skos:prefLabel>
 	<skos:prefLabel xml:lang="de">Mezzaun-Störung</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Détachement de Mezzaun</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Faglia di Mezzaun</skos:prefLabel>
 	<skos:altLabel xml:lang="en">Mezzaun Detachment Fault, Mezzaun Normal Fault</skos:altLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Detachment"/>
 	<adms:status xml:lang="en">active</adms:status>
@@ -3290,10 +3399,7 @@ From its geographical description, the Gallo Fault In HIKE (4615) and Geosphere 
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/MontRisouxThrust">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<rdfs:isDefinedBy>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</rdfs:isDefinedBy>
-	<rdfs:comment>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</rdfs:comment>
 	<skos:definition xml:lang="en">The Mont Risoux Thrust is the frontal NW-vergent thrust delimiting the Mont Risoux Block. It is a 1st order thrust connected to the basal décollement of the Jura Fold-and-Thrust Belt.</skos:definition>
-	<skos:scopeNote xml:lang="en">swissJura3D (Jura vaudois)</skos:scopeNote>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
 	<skos:prefLabel xml:lang="en">Mont Risoux Thrust</skos:prefLabel>
 	<skos:prefLabel xml:lang="de">Mont-Risoux-Überschiebung</skos:prefLabel>
@@ -3305,6 +3411,9 @@ From its geographical description, the Gallo Fault In HIKE (4615) and Geosphere 
 	<skos:altLabel xml:lang="it">Sovrascorrimento del Risoux</skos:altLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ThrustForward"/>
 	<adms:status xml:lang="en">active</adms:status>
+	<dct:source>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</dct:source>
+	<dct:bibliographicCitation>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</dct:bibliographicCitation>
+	<skos:scope xml:lang="en">swissJura3D (Jura vaudois)</skos:scope>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/DentDeVaulionThrust">
@@ -3332,6 +3441,7 @@ From its geographical description, the Gallo Fault In HIKE (4615) and Geosphere 
 	<skos:prefLabel xml:lang="en">Les Cernis Thrust</skos:prefLabel>
 	<skos:prefLabel xml:lang="de">Les-Cernis-Überschiebung</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Chevauchement des Cernis</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Sovrascorrimento dei Cernis</skos:prefLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ThrustForward"/>
 	<adms:status xml:lang="en">active</adms:status>
 </rdf:Description>
@@ -3767,10 +3877,7 @@ From its geographical description, the Gallo Fault In HIKE (4615) and Geosphere 
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/MontTerriThrust">
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-	<rdfs:isDefinedBy>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</rdfs:isDefinedBy>
-	<rdfs:comment>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</rdfs:comment>
 	<skos:definition xml:lang="en">The Mont Terri Thrust represents the Main Jura Thrust in the Haute Ajoie region (easternmost part of the Central Jura), where the Internal Folded Jura directly overlies the Haute-Saône Platform (Nussbaum et al. 2017).</skos:definition>
-	<skos:scopeNote xml:lang="en">Jura</skos:scopeNote>
 	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
 	<skos:prefLabel xml:lang="en">Mont Terri Thrust</skos:prefLabel>
 	<skos:prefLabel xml:lang="de">Mont-Terri-Überschiebung</skos:prefLabel>
@@ -3780,6 +3887,9 @@ From its geographical description, the Gallo Fault In HIKE (4615) and Geosphere 
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ThrustForward"/>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/JuraMainThrust"/>
 	<adms:status xml:lang="en">active</adms:status>
+	<dct:source>https://data.geo.admin.ch/ch.swisstopo.geologie-tektonische_karte/pdf/Erl-TK500_2024.pdf</dct:source>
+	<dct:bibliographicCitation>Gouffon Yves (Editor) (2024): Tectonic Map of Switzerland 1:500000, Explanatory notes. Federal Office of Topography swisstopo, Wabern</dct:bibliographicCitation>
+	<skos:scope xml:lang="en">Jura</skos:scope>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/PaudezeThrust">
@@ -3793,6 +3903,7 @@ From its geographical description, the Gallo Fault In HIKE (4615) and Geosphere 
 	<skos:prefLabel xml:lang="en">Paudèze Thrust</skos:prefLabel>
 	<skos:prefLabel xml:lang="de">Paudèze-Störung</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Accident de la Paudèze</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Faglia della Paudèze</skos:prefLabel>
 	<skos:altLabel xml:lang="fr">Faille de la Paudèze, Chevauchement de la Paudèze</skos:altLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ThrustForward"/>
 	<adms:status xml:lang="en">active</adms:status>
@@ -3808,6 +3919,7 @@ From its geographical description, the Gallo Fault In HIKE (4615) and Geosphere 
 	<skos:prefLabel xml:lang="en">Lutrive Thrust</skos:prefLabel>
 	<skos:prefLabel xml:lang="de">Lutrive-Störung</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Accident de la Lutrive</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Faglia della Lutrive</skos:prefLabel>
 	<skos:altLabel xml:lang="fr">Faille de la Lutrive, Chevauchement de la Lutrive</skos:altLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ThrustForward"/>
 	<adms:status xml:lang="en">active</adms:status>
@@ -3823,6 +3935,7 @@ From its geographical description, the Gallo Fault In HIKE (4615) and Geosphere 
 	<skos:prefLabel xml:lang="en">Grandvaux Thrust</skos:prefLabel>
 	<skos:prefLabel xml:lang="de">Grandvaux-Störung</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Accident de Grandvaux</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Faglia di Grandvaux</skos:prefLabel>
 	<skos:altLabel xml:lang="fr">Faille de Grandvaux</skos:altLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ThrustForward"/>
 	<adms:status xml:lang="en">active</adms:status>
@@ -3838,6 +3951,7 @@ From its geographical description, the Gallo Fault In HIKE (4615) and Geosphere 
 	<skos:prefLabel xml:lang="en">Riex-Bahyse Thrust</skos:prefLabel>
 	<skos:prefLabel xml:lang="de">Riex-Bahyse-Störung</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Accident de Riex-Bahyse</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Faglia di Riex-Bahyse</skos:prefLabel>
 	<skos:altLabel xml:lang="fr">Faille de Riex-Bahyse</skos:altLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ThrustForward"/>
 	<adms:status xml:lang="en">active</adms:status>
@@ -3870,6 +3984,7 @@ From its geographical description, the Gallo Fault In HIKE (4615) and Geosphere 
 	<skos:prefLabel xml:lang="en">Veveyse Slice</skos:prefLabel>
 	<skos:prefLabel xml:lang="de">Veveyse-Störung</skos:prefLabel>
 	<skos:prefLabel xml:lang="fr">Accident de la Veveyse</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Faglia della Veveyse</skos:prefLabel>
 	<skos:altLabel xml:lang="fr">Faille de la Veveyse, Chevauchements complexes de la Veveyse</skos:altLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ThrustForward"/>
 	<adms:status xml:lang="en">active</adms:status>
@@ -5979,7 +6094,7 @@ From its geographical description, the Gallo Fault In HIKE (4615) and Geosphere 
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Collection"/>
 	<skos:prefLabel xml:lang="en">faults of the Jura Mountains</skos:prefLabel>
 	<skos:prefLabel xml:lang="de">Störungen des Juragebirges</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">accidents tectonique du Jura</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">accidents tectoniques du Jura</skos:prefLabel>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/collHelveticFolds">
@@ -6024,6 +6139,17 @@ From its geographical description, the Gallo Fault In HIKE (4615) and Geosphere 
 	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BremgartenSyncline"/>
 	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BucheggbergSyncline"/>
 	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/ChurzenbergAnticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/MormontAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Mormont Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">
+Mormont-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal du Mormont</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale del Mormont</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
 </rdf:Description>
 
 <rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/collAustroalpineFolds">
@@ -6114,7 +6240,7 @@ From its geographical description, the Gallo Fault In HIKE (4615) and Geosphere 
 	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Collection"/>
 	<skos:prefLabel xml:lang="en">faults of the Helvetic domain</skos:prefLabel>
 	<skos:prefLabel xml:lang="de">Störungen der Helvetischen Domäne</skos:prefLabel>
-	<skos:prefLabel xml:lang="fr">accidents tectonique du domaine Helvétique</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">accidents tectoniques du domaine Helvétique</skos:prefLabel>
 	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/SaxSchwendeFault"/>
 	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/BachliGiesenenFault"/>
 	<skos:member rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/GlarusThrust"/>
@@ -6547,6 +6673,1043 @@ From its geographical description, the Gallo Fault In HIKE (4615) and Geosphere 
 	<skos:prefLabel xml:lang="it">Sinclinale del Moléson</skos:prefLabel>
 	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Syncline"/>
 	<skos:scope>Préalpes Médianes</skos:scope>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/EggbergFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Eggberg Fault Zone</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Eggberg-Störungszone</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Zone de failles d'Eggberg</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Zona di faglie di Eggberg</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/EssertinesFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Essertines Fault Zone</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Essertines-Störungszone</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Zone de failles d'Essertines</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Zona di faglie di Essertines</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/GoleLargheFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Gole Larghe Fault Zone</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Gole-Larghe-Störungszone</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Zone de failles des Gole Larghe</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Zona di faglie delle Gole Larghe</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/MindelseeFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Mindelsee Fault Zone</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Mindelsee-Störungszone</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Zone de failles du Mindelsee</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Zona di faglie del Mindelsee</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/SchluchseeBirkendorfFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Schluchsee-Birkendorf Fault Zone</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Schluchsee-Birkendorf-Störungszone</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Zone de failles du Schluchsee-Birkendorf</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Zona di faglie del Schluchsee-Birkendorf</skos:prefLabel>
+	<skos:altLabel xml:lang="it">Zona di faglie di Schluchsee-Birkendorf</skos:altLabel>
+	<skos:altLabel xml:lang="fr">Zone de failles de Schluchsee-Birkendorf</skos:altLabel>
+	<skos:editorialNote xml:lang="en">The toponym "Schluchsee" is used both for a lake and for a nearby village. In such a case opting for the natural object makes more sense (lake developped in a tectonically controlled depression).</skos:editorialNote>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/TourneFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Tourne Fault Zone</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Tourne-Störungszone</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Zone de failles de la Tourne</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Zona di faglie della Tourne</skos:prefLabel>
+	<skos:editorialNote xml:lang="en">The toponym is potentially misleading as the fault zone does not determine the pass position and orientation, whereas a smaller fault does. Actually, the "Mauvaise Combe" follows the fault zone and would be more appropriate as reference.</skos:editorialNote>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
+	<adms:status xml:lang="en">active</adms:status>
+	<dct:isDefinedBy>col de la Tourne (CH-NE): coord. 2549800/1203850</dct:isDefinedBy>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/WehratalFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Wehratal Fault Zone</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Wehratal-Störungszone</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Zone de failles du Wehratal</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Zona di faglie del Wehratal</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/WutachFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Wutach Fault Zone</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Wutach-Störungszone</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Zone de failles de la Wutach</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Zona di faglie della Wutach</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/PeitingFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Peiting Fault</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Peiting-Transferstörung</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Faille de transfert de Peiting</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Faglia di trasferimento di Peiting</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/FaultStrikeSlip"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/VuarneGlandFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="de">Vuarne-Gland-Blattverschiebung</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Vuarne-Gland Strike-slip Fault</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Décrochement de Vuarne-Gland</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Faglia trascorrente di Vuarne-Gland</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/FaultStrikeSlipDextral"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/RheinfeldenFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Rheinfelden Normal Fault</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Rheinfelden-Abschiebung</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Faille normale de Rheinfelden</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Faglia diretta di Rheinfelden</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Detachment"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/MaulburgFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Maulburg Normal Fault</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Maulburg-Abschiebung</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Faille normale de Maulburg</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Faglia diretta di Maulburg</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Detachment"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/EglisauFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Eglisau Fault</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Eglisau-Störung</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Faille d'Eglisau</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Faglia di Eglisau</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/DevelierAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Develier Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Develier-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal de Develier</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale di Develier</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/DurachAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Durach Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Durach-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal de Durach</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale di Durach</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/EichiBiberentalAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Eichi-Biberental Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Eichi-Biberental-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal d'Eichi-Biberental</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale di Eichi-Biberental</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/EssertinesChenePaquierAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Essertines-Chêne-Pâquier Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Essertines-Chêne-Pâquier-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal d'Essertines-Chêne-Pâquier</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale di Essertines-Chêne-Pâquier</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/FalkenfluhAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Falkenfluh Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Falkenfluh-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal de la Falkenfluh</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale della Falkenfluh</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/FarisbergAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Farisberg Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Farisberg-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal de Farisberg</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale di Farisberg</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/FendringenNiederriedAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Fendringen-Niederried Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Fendringen-Niederried-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal de Fendringen-Niederried</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale di Fendringen-Niederried</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/GerholzAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Gerholz Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Gerholz-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal de Gerholz</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale di Gerholz</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/GipouAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Gipou Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Gipou-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal du Gipou</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale del Gipou</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/GraiteryAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Graitery Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Graitery-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal du Graitery</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale del Graitery</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/GrandSomMartelAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Grand Som Martel Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Grand-Som-Martel-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal du Grand Som Martel</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale del Grand Som Martel</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/GugenAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Gugen Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Gugen-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal de Gugen</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale di Gugen</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/HagendornAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Hagendorn Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Hagendorn-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal de Hagendorn</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale di Hagendorn</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/HenniezAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Henniez Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal d'Henniez</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale di Henniez</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Henniez-Antiklinale</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/HuttwilAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Huttwil Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Huttwil-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal d'Huttwil</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale di Huttwil</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/KoellikenAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Kölliken Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Kölliken-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal de Kölliken</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale di Kölliken</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/WisigAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Wisig Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Wisig-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal de Wisig</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale di Wisig</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/WohlenAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Wohlen Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">
+Wohlen-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal de Wohlen</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale di Wohlen</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/WynauAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Wynau Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Wynau-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal de Wynau</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale di Wynau</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/WachseldornBalmeggAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Wachseldorn-Balmegg Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Wachseldorn-Balmegg-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal de Wachseldorn-Balmegg</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale di Wachseldorn-Balmegg</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/WartenseeAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Wartensee Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Wartensee-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal de Wartensee</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale di Wartensee</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/WeissensteinAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Weissenstein Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Weissenstein-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal du Weissenstein</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale del Weissenstein</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/VanzoneFold">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Vanzone Antiform</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Vanzone-Antiform</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Antiforme de Vanzone</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Antiforma di Vanzone</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Antiform"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/ViquesAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Viques Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Viques-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal de Viques</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale di Viques</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/VorbourgAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Vorbourg Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Vorburg-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal du Vorbourg</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale del Vorbourg</skos:prefLabel>
+	<skos:altLabel xml:lang="de">Vorbourg-Antiklinale</skos:altLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/PassDUrFold">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Pass d'Ur Antiform</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Pass-d'Ur-Antiform</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Antiforme du Pass d'Ur</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Antiforma del Pass d'Ur</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Antiform"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/TannenbergAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Tannenberg Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Tannenberg-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal du Tannenberg</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale del Tannenberg</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/TrabucelloAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Trabucello Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Trabucello-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal du Trabucello</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale del Trabucello</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/TschuggAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Tschugg Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Tschugg-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal de Tschugg</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale di Tschugg</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/SiggenthalAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Siggenthal Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Siggenthal-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal de Siggenthal</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale di Siggenthal</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/StVerenaAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">St. Verena Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">St.-Verena-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal de Ste-Verène</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale di Sta-Verena</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/SubingenAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Subingen Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Subingen-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal de Subingen</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale di Subingen</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/SchwarzenburgAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Schwarzenburg Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Schwarzenburg-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal de Schwarzenburg</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale di Schwarzenburg</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/LakeAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Lake Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">See-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal du Lac</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale del Lago</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/RaimeuxAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Raimeux Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Raimeux-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal du Raimeux</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale del Raimeux</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/RiggisbergAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Riggisberg Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Riggisberg-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal de Riggisberg</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale di Riggisberg</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/RoseletAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Roselet Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Roselet-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal du Roselet</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale del Roselet</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/RossetMontTendreAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Rosset-Mont Tendre Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Rosset-Mont-Tendre-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal du Rosset-Mont Tendre</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale del Rosset-Mont Tendre</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/WischbergFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Wischberg Fault</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Wischberg-Störung</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Faille du Wischberg</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Faglia del Wischberg</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/LacDeMoronAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Lac de Moron Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Lac-de-Moron-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal du Lac de Moron</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale del Lac de Moron</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/LangenthalAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Langenthal Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Langenthal-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal de Langenthal</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">
+Anticlinale di Langenthal</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/LaveronAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Laveron Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Laveron-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal du Laveron</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale del Laveron</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/LeutschenbergAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Leutschenberg Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Leutschenberg-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal du Leutschenberg</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale del Leutschenberg</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/LindenbergKaepfnachRotenAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Lindenberg-Käpfnach-Roten Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Lindenberg-Käpfnach-Roten-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal de Lindenberg-Käpfnach-Roten</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale di Lindenberg-Käpfnach-Roten</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/MenznauAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Menznau Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">
+Menznau-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal de Menznau</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale di Menznau</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/MessenAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Messen Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Messen-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal de Messen</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale di Messen</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/MontCrosinAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Mont Crosin Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Mont-Crosin-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal du Mont Crosin</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale del Mont Crosin</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/MontDAminAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Mont d'Amin Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Mont-d'Amin-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal du Mont d'Amin</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale del Mont d'Amin</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/MontJaquesAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Mont Jaques Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Mont-Jaques-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal du Mont Jaques</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale del Mont Jaques</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/MontNoirAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Mont Noir Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Mont-Noir-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal du Mont Noir</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale del Mont Noir</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/MontRacineAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Mont Racine Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Mont-Racine-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal du Mont Racine</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale del Mont Racine</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/MontSujetAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Mont Sujet Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Mont-Sujet-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal du Mont Sujet</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale del Mont Sujet</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/MontRisouxAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Risoux Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">
+Risoux-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">
+Anticlinal du Risoux</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale del Risoux</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/MontozAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Montoz Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Montoz-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal du Montoz</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale del Montoz</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/MoronAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Moron Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Moron-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal du Moron</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale del Moron</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/NennigkofenAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Nennigkofen Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Nennigkofen-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal de Nennigkofen</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale di Nennigkofen</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/NeuenhofAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Neuenhof Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Neuenhof-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal de Neuenhof</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale di Neuenhof</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/NierletAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Nierlet Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Nierlet-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal du Nierlet</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale del Nierlet</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/NoirmontAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Noirmont Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Noirmont-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal du Noirmont</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale del Noirmont</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/OrobicAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Orobic Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Orobische Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal Orobique</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale Orobica</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/PasswangAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Passwang Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">
+Passwang-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal du Passwang</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">
+Anticlinale del Passwang</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/PlacesAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Les Places Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Les-Places-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal des Places</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale delle Places</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/PontinsAnticline">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Pontins Anticline</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Pontins-Antiklinale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Anticlinal des Pontins</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Anticlinale dei Pontins</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Anticline"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/GazzirolaFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Gazzirola Fault</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Gazzirola-Störung</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Faille de la Gazzirola</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Faglia della Gazzirola</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/GrimmFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Grimm Fault</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Grimm-Störung</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Faille du Grimm</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">
+Faglia del Grimm</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/HautCretMassacreFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Haut-Crêt-Massacre Fault</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Haut-Crêt-Massacre-Störung</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Faille de Haut-Crêt - Massacre</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Faglia di Haut-Crêt-Massacre</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/IsornoFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Isorno Fault</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Isorno-Störung</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Faille de l'Isorno</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Faglia dell'Isorno</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/KarsauFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Karsau Fault</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Karsau-Störung</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Faille de Karsau</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Faglia di Karsau</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/KilchbuehlFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Kilchbühl Fault</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Kilchbühl-Störung</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Faille de Kilchbühl</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Faglia di Kilchbühl</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/KreuzlingenFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Kreuzlingen Fault</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Kreuzlingen-Störung</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Faille de Kreuzlingen</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Faglia di Kreuzlingen</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/LezatFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Lézat Fault</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Lézat-Störung</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Faille de Lézat</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Faglia di Lézat</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/MannenbachFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Mannenbach Fault</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Mannenbach-Störung</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Faille de Mannenbach</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Faglia di Mannenbach</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/MenthuePrahinsFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Menthue-Prahins Fault</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Menthue-Prahins-Störung</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Faille de la Menthue-Prahins</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Faglia della Menthue-Prahins</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/MionneGrenetFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Mionne-Grenet Fault</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Mionne-Grenet-Störung</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Faille de la Mionne-Grenet</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Faglia della Mionne-Grenet</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/MistbuehlFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Mistbühl Fault</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Mistbühl-Störung</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Faille de Mistbühl</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Faglia di Mistbühl</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/MurettoFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Muretto Fault</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Muretto-Störung</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Faille de Muretto</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Faglia di Muretto</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/MussoFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Musso Fault</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Musso-Störung</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Faille de Musso</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">
+Faglia di Musso</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/OrobicFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Orobic Line</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">
+Orobische Linie</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Ligne Orobique</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Linea Orobica</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/ParimbotFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Parimbot Fault</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Parimbot-Störung</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Accident du Parimbot</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Faglia del Parimbot</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/PorteDesEnfersFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Porte des Enfers Fault</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Porte-des-Enfers-Störung</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Faille de la Porte des Enfers</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Faglia della Porte des Enfers</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/PresDeCortebertFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Prés de Cortébert Fault</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Prés-de-Cortébert-Störung</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Faille des Prés de Cortébert</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Faglia dei Prés de Cortébert</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/ReticoFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Retico Fault</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Retico-Störung</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Faille du Retico</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Faglia del Retico</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/RhineValleyFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Rhine Valley Fault</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Rheintal-Störung</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Faille de la Vallée du Rhin</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Faglia della Valle del Reno</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/SeegFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Seeg Fault</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Seeg-Störung</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Faille de Seeg</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Faglia di Seeg</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/SulzschneidFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Sulzschneid Fault</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Sulzschneid-Störung</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Faille de Sulzschneid</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Faglia di Sulzschneid</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/TessereteGronaFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Tesserete-Grona Fault</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Tesserete-Grona-Störung</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Faille de Tesserete-Grona</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Faglia di Tesserete-Grona</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/TresaFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Tresa Fault</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Tresa-Störung</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Faille de Tresa</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Faglia di Tresa</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/UnterseeFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Untersee Fault</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Untersee-Störung</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Faille de l'Untersee</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Faglia dell'Untersee</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://lexic.swissgeol.ch/TectonicStructures/VorwaldFault">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:inScheme rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/TectonicStructures"/>
+	<skos:prefLabel xml:lang="en">Vorwald Fault</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Vorwald-Störung</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Faille de Vorwald</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Faglia di Vorwald</skos:prefLabel>
+	<skos:broader rdf:resource="https://lexic.swissgeol.ch/TectonicStructures/Fault"/>
 </rdf:Description>
 
 </rdf:RDF>
